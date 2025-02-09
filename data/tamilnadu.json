@@ -1,6 +1,5 @@
-{
-    "vegetarian":
-        [
+[{
+    "vegetarian":[
             {
                 "id": 1,
                 "name": "Idli",
@@ -3052,7 +3051,7 @@
                     "Oil"
                 ]
             }
-        ],
+        ]},{
         "Non-vegetarian":[
     {
       "id": 1,
@@ -3714,5 +3713,6 @@
       "rating": 4.0,
       "image": "url_to_mutton_omelette_image",
       "video": "url_to_mutton_omelette_video"
-    }]
-}
+    }
+]}
+]
