@@ -1,0 +1,3718 @@
+{
+    "vegetarian":
+        [
+            {
+                "id": 1,
+                "name": "Idli",
+                "description": "A traditional Tamil Nadu dish called Idli, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/idli.jpg",
+                "video": "https://example.com/videos/idli.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Idli.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Rava Idli",
+                "description": "A traditional Tamil Nadu dish called Rava Idli, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rava_idli.jpg",
+                "video": "https://example.com/videos/rava_idli.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Rava Idli.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Kanchipuram Idli",
+                "description": "A traditional Tamil Nadu dish called Kanchipuram Idli, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kanchipuram_idli.jpg",
+                "video": "https://example.com/videos/kanchipuram_idli.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Kanchipuram Idli.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Thatte Idli",
+                "description": "A traditional Tamil Nadu dish called Thatte Idli, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thatte_idli.jpg",
+                "video": "https://example.com/videos/thatte_idli.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Thatte Idli.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Dosa",
+                "description": "A traditional Tamil Nadu dish called Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/dosa.jpg",
+                "video": "https://example.com/videos/dosa.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Dosa.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Ghee Roast Dosa",
+                "description": "A traditional Tamil Nadu dish called Ghee Roast Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ghee_roast_dosa.jpg",
+                "video": "https://example.com/videos/ghee_roast_dosa.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Ghee Roast Dosa.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Masala Dosa",
+                "description": "A traditional Tamil Nadu dish called Masala Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/masala_dosa.jpg",
+                "video": "https://example.com/videos/masala_dosa.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Masala Dosa.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Rava Dosa",
+                "description": "A traditional Tamil Nadu dish called Rava Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rava_dosa.jpg",
+                "video": "https://example.com/videos/rava_dosa.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Rava Dosa.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Onion Dosa",
+                "description": "A traditional Tamil Nadu dish called Onion Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/onion_dosa.jpg",
+                "video": "https://example.com/videos/onion_dosa.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Onion Dosa.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 10,
+                "name": "Kal Dosa",
+                "description": "A traditional Tamil Nadu dish called Kal Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kal_dosa.jpg",
+                "video": "https://example.com/videos/kal_dosa.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Kal Dosa.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 11,
+                "name": "Adai Dosa",
+                "description": "A traditional Tamil Nadu dish called Adai Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/adai_dosa.jpg",
+                "video": "https://example.com/videos/adai_dosa.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Adai Dosa.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 12,
+                "name": "Set Dosa",
+                "description": "A traditional Tamil Nadu dish called Set Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/set_dosa.jpg",
+                "video": "https://example.com/videos/set_dosa.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Set Dosa.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 13,
+                "name": "Neer Dosa",
+                "description": "A traditional Tamil Nadu dish called Neer Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/neer_dosa.jpg",
+                "video": "https://example.com/videos/neer_dosa.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Neer Dosa.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 14,
+                "name": "Wheat Dosa",
+                "description": "A traditional Tamil Nadu dish called Wheat Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/wheat_dosa.jpg",
+                "video": "https://example.com/videos/wheat_dosa.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Wheat Dosa.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 15,
+                "name": "Oats Dosa",
+                "description": "A traditional Tamil Nadu dish called Oats Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/oats_dosa.jpg",
+                "video": "https://example.com/videos/oats_dosa.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Oats Dosa.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 16,
+                "name": "Ragi Dosa",
+                "description": "A traditional Tamil Nadu dish called Ragi Dosa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ragi_dosa.jpg",
+                "video": "https://example.com/videos/ragi_dosa.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Ragi Dosa.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 17,
+                "name": "Pesarattu",
+                "description": "A traditional Tamil Nadu dish called Pesarattu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pesarattu.jpg",
+                "video": "https://example.com/videos/pesarattu.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Pesarattu.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 18,
+                "name": "Paniyaram",
+                "description": "A traditional Tamil Nadu dish called Paniyaram, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/paniyaram.jpg",
+                "video": "https://example.com/videos/paniyaram.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Paniyaram.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 19,
+                "name": "Kuzhi Paniyaram",
+                "description": "A traditional Tamil Nadu dish called Kuzhi Paniyaram, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kuzhi_paniyaram.jpg",
+                "video": "https://example.com/videos/kuzhi_paniyaram.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Kuzhi Paniyaram.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 20,
+                "name": "Rava Paniyaram",
+                "description": "A traditional Tamil Nadu dish called Rava Paniyaram, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rava_paniyaram.jpg",
+                "video": "https://example.com/videos/rava_paniyaram.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Rava Paniyaram.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 21,
+                "name": "Kambu Paniyaram",
+                "description": "A traditional Tamil Nadu dish called Kambu Paniyaram, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kambu_paniyaram.jpg",
+                "video": "https://example.com/videos/kambu_paniyaram.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Kambu Paniyaram.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 22,
+                "name": "Upma",
+                "description": "A traditional Tamil Nadu dish called Upma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/upma.jpg",
+                "video": "https://example.com/videos/upma.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Upma.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 23,
+                "name": "Rava Upma",
+                "description": "A traditional Tamil Nadu dish called Rava Upma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rava_upma.jpg",
+                "video": "https://example.com/videos/rava_upma.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Rava Upma.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 24,
+                "name": "Semiya Upma",
+                "description": "A traditional Tamil Nadu dish called Semiya Upma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/semiya_upma.jpg",
+                "video": "https://example.com/videos/semiya_upma.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Semiya Upma.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 25,
+                "name": "Wheat Upma",
+                "description": "A traditional Tamil Nadu dish called Wheat Upma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/wheat_upma.jpg",
+                "video": "https://example.com/videos/wheat_upma.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Wheat Upma.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 26,
+                "name": "Oats Upma",
+                "description": "A traditional Tamil Nadu dish called Oats Upma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/oats_upma.jpg",
+                "video": "https://example.com/videos/oats_upma.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Oats Upma.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 27,
+                "name": "Aval Upma",
+                "description": "A traditional Tamil Nadu dish called Aval Upma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/aval_upma.jpg",
+                "video": "https://example.com/videos/aval_upma.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Aval Upma.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 28,
+                "name": "Broken Rice Upma",
+                "description": "A traditional Tamil Nadu dish called Broken Rice Upma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/broken_rice_upma.jpg",
+                "video": "https://example.com/videos/broken_rice_upma.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Broken Rice Upma.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 29,
+                "name": "Thavala Adai",
+                "description": "A traditional Tamil Nadu dish called Thavala Adai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thavala_adai.jpg",
+                "video": "https://example.com/videos/thavala_adai.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Thavala Adai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 30,
+                "name": "Pongal",
+                "description": "A traditional Tamil Nadu dish called Pongal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pongal.jpg",
+                "video": "https://example.com/videos/pongal.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Pongal.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 31,
+                "name": "Ven Pongal",
+                "description": "A traditional Tamil Nadu dish called Ven Pongal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ven_pongal.jpg",
+                "video": "https://example.com/videos/ven_pongal.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Ven Pongal.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 32,
+                "name": "Sakkarai Pongal",
+                "description": "A traditional Tamil Nadu dish called Sakkarai Pongal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/sakkarai_pongal.jpg",
+                "video": "https://example.com/videos/sakkarai_pongal.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Sakkarai Pongal.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 33,
+                "name": "Kuthiraivali Pongal",
+                "description": "A traditional Tamil Nadu dish called Kuthiraivali Pongal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kuthiraivali_pongal.jpg",
+                "video": "https://example.com/videos/kuthiraivali_pongal.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Kuthiraivali Pongal.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 34,
+                "name": "Thinai Pongal",
+                "description": "A traditional Tamil Nadu dish called Thinai Pongal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thinai_pongal.jpg",
+                "video": "https://example.com/videos/thinai_pongal.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Thinai Pongal.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 35,
+                "name": "Ragi Pongal",
+                "description": "A traditional Tamil Nadu dish called Ragi Pongal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ragi_pongal.jpg",
+                "video": "https://example.com/videos/ragi_pongal.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Ragi Pongal.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 36,
+                "name": "Godhumai Rava Pongal",
+                "description": "A traditional Tamil Nadu dish called Godhumai Rava Pongal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/godhumai_rava_pongal.jpg",
+                "video": "https://example.com/videos/godhumai_rava_pongal.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Godhumai Rava Pongal.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 37,
+                "name": "Vella Aval",
+                "description": "A traditional Tamil Nadu dish called Vella Aval, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vella_aval.jpg",
+                "video": "https://example.com/videos/vella_aval.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Vella Aval.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 38,
+                "name": "Idiyappam",
+                "description": "A traditional Tamil Nadu dish called Idiyappam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/idiyappam.jpg",
+                "video": "https://example.com/videos/idiyappam.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Idiyappam.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 39,
+                "name": "Coconut Idiyappam",
+                "description": "A traditional Tamil Nadu dish called Coconut Idiyappam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/coconut_idiyappam.jpg",
+                "video": "https://example.com/videos/coconut_idiyappam.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Coconut Idiyappam.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 40,
+                "name": "Lemon Idiyappam",
+                "description": "A traditional Tamil Nadu dish called Lemon Idiyappam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/lemon_idiyappam.jpg",
+                "video": "https://example.com/videos/lemon_idiyappam.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Lemon Idiyappam.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 41,
+                "name": "Ragi Idiyappam",
+                "description": "A traditional Tamil Nadu dish called Ragi Idiyappam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ragi_idiyappam.jpg",
+                "video": "https://example.com/videos/ragi_idiyappam.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Ragi Idiyappam.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 42,
+                "name": "Kambu Idiyappam",
+                "description": "A traditional Tamil Nadu dish called Kambu Idiyappam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kambu_idiyappam.jpg",
+                "video": "https://example.com/videos/kambu_idiyappam.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Kambu Idiyappam.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 43,
+                "name": "Rava Kichadi",
+                "description": "A traditional Tamil Nadu dish called Rava Kichadi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rava_kichadi.jpg",
+                "video": "https://example.com/videos/rava_kichadi.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Rava Kichadi.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 44,
+                "name": "Vegetable Kichadi",
+                "description": "A traditional Tamil Nadu dish called Vegetable Kichadi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vegetable_kichadi.jpg",
+                "video": "https://example.com/videos/vegetable_kichadi.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Vegetable Kichadi.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 45,
+                "name": "Mor Kichadi",
+                "description": "A traditional Tamil Nadu dish called Mor Kichadi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mor_kichadi.jpg",
+                "video": "https://example.com/videos/mor_kichadi.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Mor Kichadi.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 46,
+                "name": "Wheat Kichadi",
+                "description": "A traditional Tamil Nadu dish called Wheat Kichadi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/wheat_kichadi.jpg",
+                "video": "https://example.com/videos/wheat_kichadi.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Wheat Kichadi.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 47,
+                "name": "Oats Kichadi",
+                "description": "A traditional Tamil Nadu dish called Oats Kichadi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/oats_kichadi.jpg",
+                "video": "https://example.com/videos/oats_kichadi.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Oats Kichadi.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "Karuveppilai Kichadi",
+                "description": "A traditional Tamil Nadu dish called Karuveppilai Kichadi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/karuveppilai_kichadi.jpg",
+                "video": "https://example.com/videos/karuveppilai_kichadi.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Karuveppilai Kichadi.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 49,
+                "name": "Kozhukattai",
+                "description": "A traditional Tamil Nadu dish called Kozhukattai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kozhukattai.jpg",
+                "video": "https://example.com/videos/kozhukattai.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Kozhukattai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 50,
+                "name": "Pidi Kozhukattai",
+                "description": "A traditional Tamil Nadu dish called Pidi Kozhukattai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pidi_kozhukattai.jpg",
+                "video": "https://example.com/videos/pidi_kozhukattai.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Pidi Kozhukattai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 51,
+                "name": "Sweet Kozhukattai",
+                "description": "A traditional Tamil Nadu dish called Sweet Kozhukattai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/sweet_kozhukattai.jpg",
+                "video": "https://example.com/videos/sweet_kozhukattai.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Sweet Kozhukattai.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 52,
+                "name": "Savory Kozhukattai",
+                "description": "A traditional Tamil Nadu dish called Savory Kozhukattai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/savory_kozhukattai.jpg",
+                "video": "https://example.com/videos/savory_kozhukattai.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Savory Kozhukattai.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 53,
+                "name": "Ragi Kozhukattai",
+                "description": "A traditional Tamil Nadu dish called Ragi Kozhukattai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ragi_kozhukattai.jpg",
+                "video": "https://example.com/videos/ragi_kozhukattai.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Ragi Kozhukattai.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 54,
+                "name": "Kambu Kozhukattai",
+                "description": "A traditional Tamil Nadu dish called Kambu Kozhukattai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kambu_kozhukattai.jpg",
+                "video": "https://example.com/videos/kambu_kozhukattai.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Kambu Kozhukattai.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 55,
+                "name": "Vellai Paniyaram",
+                "description": "A traditional Tamil Nadu dish called Vellai Paniyaram, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vellai_paniyaram.jpg",
+                "video": "https://example.com/videos/vellai_paniyaram.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Vellai Paniyaram.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 56,
+                "name": "Muttaikose Dosai",
+                "description": "A traditional Tamil Nadu dish called Muttaikose Dosai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/muttaikose_dosai.jpg",
+                "video": "https://example.com/videos/muttaikose_dosai.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Muttaikose Dosai.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 57,
+                "name": "Mullu Murukku Dosai",
+                "description": "A traditional Tamil Nadu dish called Mullu Murukku Dosai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mullu_murukku_dosai.jpg",
+                "video": "https://example.com/videos/mullu_murukku_dosai.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Mullu Murukku Dosai.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 58,
+                "name": "Kothu Idiyappam",
+                "description": "A traditional Tamil Nadu dish called Kothu Idiyappam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kothu_idiyappam.jpg",
+                "video": "https://example.com/videos/kothu_idiyappam.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Kothu Idiyappam.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 59,
+                "name": "Ulundhu Kali",
+                "description": "A traditional Tamil Nadu dish called Ulundhu Kali, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ulundhu_kali.jpg",
+                "video": "https://example.com/videos/ulundhu_kali.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Ulundhu Kali.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 60,
+                "name": "Kambu Koozh",
+                "description": "A traditional Tamil Nadu dish called Kambu Koozh, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kambu_koozh.jpg",
+                "video": "https://example.com/videos/kambu_koozh.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Kambu Koozh.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 61,
+                "name": "Sambar",
+                "description": "A traditional Tamil Nadu dish called Sambar, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/sambar.jpg",
+                "video": "https://example.com/videos/sambar.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Sambar.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 62,
+                "name": "Murungakkai Sambar",
+                "description": "A traditional Tamil Nadu dish called Murungakkai Sambar, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/murungakkai_sambar.jpg",
+                "video": "https://example.com/videos/murungakkai_sambar.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Murungakkai Sambar.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 63,
+                "name": "Kathirikai Sambar",
+                "description": "A traditional Tamil Nadu dish called Kathirikai Sambar, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kathirikai_sambar.jpg",
+                "video": "https://example.com/videos/kathirikai_sambar.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Kathirikai Sambar.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 64,
+                "name": "Keerai Sambar",
+                "description": "A traditional Tamil Nadu dish called Keerai Sambar, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/keerai_sambar.jpg",
+                "video": "https://example.com/videos/keerai_sambar.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Keerai Sambar.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 65,
+                "name": "Mullangi Sambar",
+                "description": "A traditional Tamil Nadu dish called Mullangi Sambar, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mullangi_sambar.jpg",
+                "video": "https://example.com/videos/mullangi_sambar.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Mullangi Sambar.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 66,
+                "name": "Rasam",
+                "description": "A traditional Tamil Nadu dish called Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rasam.jpg",
+                "video": "https://example.com/videos/rasam.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Rasam.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 67,
+                "name": "Tomato Rasam",
+                "description": "A traditional Tamil Nadu dish called Tomato Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/tomato_rasam.jpg",
+                "video": "https://example.com/videos/tomato_rasam.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Tomato Rasam.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 68,
+                "name": "Pepper Rasam",
+                "description": "A traditional Tamil Nadu dish called Pepper Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pepper_rasam.jpg",
+                "video": "https://example.com/videos/pepper_rasam.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Pepper Rasam.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 69,
+                "name": "Lemon Rasam",
+                "description": "A traditional Tamil Nadu dish called Lemon Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/lemon_rasam.jpg",
+                "video": "https://example.com/videos/lemon_rasam.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Lemon Rasam.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 70,
+                "name": "Garlic Rasam",
+                "description": "A traditional Tamil Nadu dish called Garlic Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/garlic_rasam.jpg",
+                "video": "https://example.com/videos/garlic_rasam.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Garlic Rasam.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 71,
+                "name": "Pineapple Rasam",
+                "description": "A traditional Tamil Nadu dish called Pineapple Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pineapple_rasam.jpg",
+                "video": "https://example.com/videos/pineapple_rasam.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Pineapple Rasam.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 72,
+                "name": "Mysore Rasam",
+                "description": "A traditional Tamil Nadu dish called Mysore Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mysore_rasam.jpg",
+                "video": "https://example.com/videos/mysore_rasam.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Mysore Rasam.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 73,
+                "name": "Paruppu Rasam",
+                "description": "A traditional Tamil Nadu dish called Paruppu Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/paruppu_rasam.jpg",
+                "video": "https://example.com/videos/paruppu_rasam.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Paruppu Rasam.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 74,
+                "name": "Vatha Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Vatha Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vatha_kuzhambu.jpg",
+                "video": "https://example.com/videos/vatha_kuzhambu.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Vatha Kuzhambu.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 75,
+                "name": "Puli Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Puli Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/puli_kuzhambu.jpg",
+                "video": "https://example.com/videos/puli_kuzhambu.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Puli Kuzhambu.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 76,
+                "name": "Thakkali Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Thakkali Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thakkali_kuzhambu.jpg",
+                "video": "https://example.com/videos/thakkali_kuzhambu.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Thakkali Kuzhambu.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 77,
+                "name": "Ennai Kathirikai Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Ennai Kathirikai Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ennai_kathirikai_kuzhambu.jpg",
+                "video": "https://example.com/videos/ennai_kathirikai_kuzhambu.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Ennai Kathirikai Kuzhambu.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 78,
+                "name": "Vendakkai Puli Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Vendakkai Puli Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vendakkai_puli_kuzhambu.jpg",
+                "video": "https://example.com/videos/vendakkai_puli_kuzhambu.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Vendakkai Puli Kuzhambu.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 79,
+                "name": "Mor Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Mor Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mor_kuzhambu.jpg",
+                "video": "https://example.com/videos/mor_kuzhambu.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Mor Kuzhambu.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 80,
+                "name": "Paruppu Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Paruppu Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/paruppu_kuzhambu.jpg",
+                "video": "https://example.com/videos/paruppu_kuzhambu.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Paruppu Kuzhambu.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 81,
+                "name": "Kootu",
+                "description": "A traditional Tamil Nadu dish called Kootu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kootu.jpg",
+                "video": "https://example.com/videos/kootu.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Kootu.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 82,
+                "name": "Chow Chow Kootu",
+                "description": "A traditional Tamil Nadu dish called Chow Chow Kootu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/chow_chow_kootu.jpg",
+                "video": "https://example.com/videos/chow_chow_kootu.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Chow Chow Kootu.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 83,
+                "name": "Pudalangai Kootu",
+                "description": "A traditional Tamil Nadu dish called Pudalangai Kootu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pudalangai_kootu.jpg",
+                "video": "https://example.com/videos/pudalangai_kootu.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Pudalangai Kootu.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 84,
+                "name": "Parangikai Kootu",
+                "description": "A traditional Tamil Nadu dish called Parangikai Kootu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/parangikai_kootu.jpg",
+                "video": "https://example.com/videos/parangikai_kootu.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Parangikai Kootu.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 85,
+                "name": "Avial",
+                "description": "A traditional Tamil Nadu dish called Avial, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/avial.jpg",
+                "video": "https://example.com/videos/avial.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Avial.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 86,
+                "name": "Erissery",
+                "description": "A traditional Tamil Nadu dish called Erissery, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/erissery.jpg",
+                "video": "https://example.com/videos/erissery.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Erissery.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 87,
+                "name": "Poriyal",
+                "description": "A traditional Tamil Nadu dish called Poriyal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/poriyal.jpg",
+                "video": "https://example.com/videos/poriyal.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Poriyal.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 88,
+                "name": "Beans Poriyal",
+                "description": "A traditional Tamil Nadu dish called Beans Poriyal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/beans_poriyal.jpg",
+                "video": "https://example.com/videos/beans_poriyal.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Beans Poriyal.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 89,
+                "name": "Cabbage Poriyal",
+                "description": "A traditional Tamil Nadu dish called Cabbage Poriyal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/cabbage_poriyal.jpg",
+                "video": "https://example.com/videos/cabbage_poriyal.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Cabbage Poriyal.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 90,
+                "name": "Carrot Poriyal",
+                "description": "A traditional Tamil Nadu dish called Carrot Poriyal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/carrot_poriyal.jpg",
+                "video": "https://example.com/videos/carrot_poriyal.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Carrot Poriyal.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 91,
+                "name": "Kootu Curry",
+                "description": "A traditional Tamil Nadu dish called Kootu Curry, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kootu_curry.jpg",
+                "video": "https://example.com/videos/kootu_curry.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Kootu Curry.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 92,
+                "name": "Kaikari Kurma",
+                "description": "A traditional Tamil Nadu dish called Kaikari Kurma, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kaikari_kurma.jpg",
+                "video": "https://example.com/videos/kaikari_kurma.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Kaikari Kurma.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 93,
+                "name": "Arachuvitta Sambar",
+                "description": "A traditional Tamil Nadu dish called Arachuvitta Sambar, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/arachuvitta_sambar.jpg",
+                "video": "https://example.com/videos/arachuvitta_sambar.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Arachuvitta Sambar.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 94,
+                "name": "Sundakkai Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Sundakkai Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/sundakkai_kuzhambu.jpg",
+                "video": "https://example.com/videos/sundakkai_kuzhambu.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Sundakkai Kuzhambu.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 95,
+                "name": "Keerai Masiyal",
+                "description": "A traditional Tamil Nadu dish called Keerai Masiyal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/keerai_masiyal.jpg",
+                "video": "https://example.com/videos/keerai_masiyal.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Keerai Masiyal.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 96,
+                "name": "Karamani Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Karamani Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/karamani_kuzhambu.jpg",
+                "video": "https://example.com/videos/karamani_kuzhambu.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Karamani Kuzhambu.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 97,
+                "name": "Puli Sadam",
+                "description": "A traditional Tamil Nadu dish called Puli Sadam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/puli_sadam.jpg",
+                "video": "https://example.com/videos/puli_sadam.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Puli Sadam.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 98,
+                "name": "Lemon Rice",
+                "description": "A traditional Tamil Nadu dish called Lemon Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/lemon_rice.jpg",
+                "video": "https://example.com/videos/lemon_rice.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Lemon Rice.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 99,
+                "name": "Coconut Rice",
+                "description": "A traditional Tamil Nadu dish called Coconut Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/coconut_rice.jpg",
+                "video": "https://example.com/videos/coconut_rice.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Coconut Rice.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 100,
+                "name": "Tomato Rice",
+                "description": "A traditional Tamil Nadu dish called Tomato Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/tomato_rice.jpg",
+                "video": "https://example.com/videos/tomato_rice.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Tomato Rice.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 101,
+                "name": "Curd Rice",
+                "description": "A traditional Tamil Nadu dish called Curd Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/curd_rice.jpg",
+                "video": "https://example.com/videos/curd_rice.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Curd Rice.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 102,
+                "name": "Brinjal Rice",
+                "description": "A traditional Tamil Nadu dish called Brinjal Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/brinjal_rice.jpg",
+                "video": "https://example.com/videos/brinjal_rice.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Brinjal Rice.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 103,
+                "name": "Mint Rice",
+                "description": "A traditional Tamil Nadu dish called Mint Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mint_rice.jpg",
+                "video": "https://example.com/videos/mint_rice.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Mint Rice.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 104,
+                "name": "Coriander Rice",
+                "description": "A traditional Tamil Nadu dish called Coriander Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/coriander_rice.jpg",
+                "video": "https://example.com/videos/coriander_rice.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Coriander Rice.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 105,
+                "name": "Beetroot Rice",
+                "description": "A traditional Tamil Nadu dish called Beetroot Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/beetroot_rice.jpg",
+                "video": "https://example.com/videos/beetroot_rice.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Beetroot Rice.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 106,
+                "name": "Ridge Gourd Rice",
+                "description": "A traditional Tamil Nadu dish called Ridge Gourd Rice, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ridge_gourd_rice.jpg",
+                "video": "https://example.com/videos/ridge_gourd_rice.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Ridge Gourd Rice.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 107,
+                "name": "Mushroom Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Mushroom Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mushroom_kuzhambu.jpg",
+                "video": "https://example.com/videos/mushroom_kuzhambu.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Mushroom Kuzhambu.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 108,
+                "name": "Thengai Sadam",
+                "description": "A traditional Tamil Nadu dish called Thengai Sadam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thengai_sadam.jpg",
+                "video": "https://example.com/videos/thengai_sadam.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Thengai Sadam.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 109,
+                "name": "Jeera Rasam",
+                "description": "A traditional Tamil Nadu dish called Jeera Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/jeera_rasam.jpg",
+                "video": "https://example.com/videos/jeera_rasam.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Jeera Rasam.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 110,
+                "name": "Karuveppilai Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Karuveppilai Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/karuveppilai_kuzhambu.jpg",
+                "video": "https://example.com/videos/karuveppilai_kuzhambu.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Karuveppilai Kuzhambu.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 111,
+                "name": "Manathakkali Vathal Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Manathakkali Vathal Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/manathakkali_vathal_kuzhambu.jpg",
+                "video": "https://example.com/videos/manathakkali_vathal_kuzhambu.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Manathakkali Vathal Kuzhambu.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 112,
+                "name": "Kalyana Rasam",
+                "description": "A traditional Tamil Nadu dish called Kalyana Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kalyana_rasam.jpg",
+                "video": "https://example.com/videos/kalyana_rasam.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Kalyana Rasam.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 113,
+                "name": "Brinjal Masala Curry",
+                "description": "A traditional Tamil Nadu dish called Brinjal Masala Curry, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/brinjal_masala_curry.jpg",
+                "video": "https://example.com/videos/brinjal_masala_curry.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Brinjal Masala Curry.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 114,
+                "name": "Kollu Rasam",
+                "description": "A traditional Tamil Nadu dish called Kollu Rasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kollu_rasam.jpg",
+                "video": "https://example.com/videos/kollu_rasam.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Kollu Rasam.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 115,
+                "name": "Vazhaipoo Usili",
+                "description": "A traditional Tamil Nadu dish called Vazhaipoo Usili, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vazhaipoo_usili.jpg",
+                "video": "https://example.com/videos/vazhaipoo_usili.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Vazhaipoo Usili.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 116,
+                "name": "Kathirikai Pitlai",
+                "description": "A traditional Tamil Nadu dish called Kathirikai Pitlai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kathirikai_pitlai.jpg",
+                "video": "https://example.com/videos/kathirikai_pitlai.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Kathirikai Pitlai.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 117,
+                "name": "Thalicha Thakkali Sadam",
+                "description": "A traditional Tamil Nadu dish called Thalicha Thakkali Sadam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thalicha_thakkali_sadam.jpg",
+                "video": "https://example.com/videos/thalicha_thakkali_sadam.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Thalicha Thakkali Sadam.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 118,
+                "name": "Vazhakkai Varuval",
+                "description": "A traditional Tamil Nadu dish called Vazhakkai Varuval, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vazhakkai_varuval.jpg",
+                "video": "https://example.com/videos/vazhakkai_varuval.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Vazhakkai Varuval.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 119,
+                "name": "Peerkangai Thogayal",
+                "description": "A traditional Tamil Nadu dish called Peerkangai Thogayal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/peerkangai_thogayal.jpg",
+                "video": "https://example.com/videos/peerkangai_thogayal.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Peerkangai Thogayal.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 120,
+                "name": "Paruppu Urundai Kuzhambu",
+                "description": "A traditional Tamil Nadu dish called Paruppu Urundai Kuzhambu, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/paruppu_urundai_kuzhambu.jpg",
+                "video": "https://example.com/videos/paruppu_urundai_kuzhambu.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Paruppu Urundai Kuzhambu.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 121,
+                "name": "Medu Vadai",
+                "description": "A traditional Tamil Nadu dish called Medu Vadai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/medu_vadai.jpg",
+                "video": "https://example.com/videos/medu_vadai.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Medu Vadai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 122,
+                "name": "Masala Vadai",
+                "description": "A traditional Tamil Nadu dish called Masala Vadai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/masala_vadai.jpg",
+                "video": "https://example.com/videos/masala_vadai.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Masala Vadai.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "Thayir Vadai",
+                "description": "A traditional Tamil Nadu dish called Thayir Vadai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thayir_vadai.jpg",
+                "video": "https://example.com/videos/thayir_vadai.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Thayir Vadai.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "Sambar Vadai",
+                "description": "A traditional Tamil Nadu dish called Sambar Vadai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/sambar_vadai.jpg",
+                "video": "https://example.com/videos/sambar_vadai.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Sambar Vadai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "Keerai Vadai",
+                "description": "A traditional Tamil Nadu dish called Keerai Vadai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/keerai_vadai.jpg",
+                "video": "https://example.com/videos/keerai_vadai.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Keerai Vadai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "Cabbage Vadai",
+                "description": "A traditional Tamil Nadu dish called Cabbage Vadai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/cabbage_vadai.jpg",
+                "video": "https://example.com/videos/cabbage_vadai.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Cabbage Vadai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "Aloo Bonda",
+                "description": "A traditional Tamil Nadu dish called Aloo Bonda, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/aloo_bonda.jpg",
+                "video": "https://example.com/videos/aloo_bonda.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Aloo Bonda.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 128,
+                "name": "Mysore Bonda",
+                "description": "A traditional Tamil Nadu dish called Mysore Bonda, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mysore_bonda.jpg",
+                "video": "https://example.com/videos/mysore_bonda.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Mysore Bonda.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "Sundal",
+                "description": "A traditional Tamil Nadu dish called Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/sundal.jpg",
+                "video": "https://example.com/videos/sundal.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Sundal.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "Kadalai Sundal",
+                "description": "A traditional Tamil Nadu dish called Kadalai Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kadalai_sundal.jpg",
+                "video": "https://example.com/videos/kadalai_sundal.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Kadalai Sundal.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "Thenga Manga Pattani Sundal",
+                "description": "A traditional Tamil Nadu dish called Thenga Manga Pattani Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thenga_manga_pattani_sundal.jpg",
+                "video": "https://example.com/videos/thenga_manga_pattani_sundal.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Thenga Manga Pattani Sundal.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 132,
+                "name": "Pasi Paruppu Sundal",
+                "description": "A traditional Tamil Nadu dish called Pasi Paruppu Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pasi_paruppu_sundal.jpg",
+                "video": "https://example.com/videos/pasi_paruppu_sundal.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Pasi Paruppu Sundal.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "Verkadalai Sundal",
+                "description": "A traditional Tamil Nadu dish called Verkadalai Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/verkadalai_sundal.jpg",
+                "video": "https://example.com/videos/verkadalai_sundal.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Verkadalai Sundal.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "Vazhaipoo Vadai",
+                "description": "A traditional Tamil Nadu dish called Vazhaipoo Vadai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vazhaipoo_vadai.jpg",
+                "video": "https://example.com/videos/vazhaipoo_vadai.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Vazhaipoo Vadai.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 135,
+                "name": "Onion Pakoda",
+                "description": "A traditional Tamil Nadu dish called Onion Pakoda, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/onion_pakoda.jpg",
+                "video": "https://example.com/videos/onion_pakoda.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Onion Pakoda.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "Cashew Pakoda",
+                "description": "A traditional Tamil Nadu dish called Cashew Pakoda, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/cashew_pakoda.jpg",
+                "video": "https://example.com/videos/cashew_pakoda.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Cashew Pakoda.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "Ribbon Pakoda",
+                "description": "A traditional Tamil Nadu dish called Ribbon Pakoda, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/ribbon_pakoda.jpg",
+                "video": "https://example.com/videos/ribbon_pakoda.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Ribbon Pakoda.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "Kara Sev",
+                "description": "A traditional Tamil Nadu dish called Kara Sev, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kara_sev.jpg",
+                "video": "https://example.com/videos/kara_sev.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Kara Sev.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "Murukku",
+                "description": "A traditional Tamil Nadu dish called Murukku, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/murukku.jpg",
+                "video": "https://example.com/videos/murukku.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Murukku.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Thenkuzhal Murukku",
+                "description": "A traditional Tamil Nadu dish called Thenkuzhal Murukku, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thenkuzhal_murukku.jpg",
+                "video": "https://example.com/videos/thenkuzhal_murukku.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Thenkuzhal Murukku.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "Mullu Murukku",
+                "description": "A traditional Tamil Nadu dish called Mullu Murukku, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mullu_murukku.jpg",
+                "video": "https://example.com/videos/mullu_murukku.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Mullu Murukku.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "Kai Murukku",
+                "description": "A traditional Tamil Nadu dish called Kai Murukku, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kai_murukku.jpg",
+                "video": "https://example.com/videos/kai_murukku.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Kai Murukku.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "Omapodi",
+                "description": "A traditional Tamil Nadu dish called Omapodi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/omapodi.jpg",
+                "video": "https://example.com/videos/omapodi.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Omapodi.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "Thattai",
+                "description": "A traditional Tamil Nadu dish called Thattai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thattai.jpg",
+                "video": "https://example.com/videos/thattai.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Thattai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "Bajji",
+                "description": "A traditional Tamil Nadu dish called Bajji, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/bajji.jpg",
+                "video": "https://example.com/videos/bajji.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Bajji.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 146,
+                "name": "Butter Murukku",
+                "description": "A traditional Tamil Nadu dish called Butter Murukku, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/butter_murukku.jpg",
+                "video": "https://example.com/videos/butter_murukku.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Butter Murukku.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "Kothu Kadalai",
+                "description": "A traditional Tamil Nadu dish called Kothu Kadalai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kothu_kadalai.jpg",
+                "video": "https://example.com/videos/kothu_kadalai.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Kothu Kadalai.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "Banana Chips",
+                "description": "A traditional Tamil Nadu dish called Banana Chips, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/banana_chips.jpg",
+                "video": "https://example.com/videos/banana_chips.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Banana Chips.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "Pakkoda",
+                "description": "A traditional Tamil Nadu dish called Pakkoda, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pakkoda.jpg",
+                "video": "https://example.com/videos/pakkoda.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Pakkoda.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 150,
+                "name": "Seepu Seedai",
+                "description": "A traditional Tamil Nadu dish called Seepu Seedai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/seepu_seedai.jpg",
+                "video": "https://example.com/videos/seepu_seedai.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Seepu Seedai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "Uppu Seedai",
+                "description": "A traditional Tamil Nadu dish called Uppu Seedai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/uppu_seedai.jpg",
+                "video": "https://example.com/videos/uppu_seedai.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Uppu Seedai.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 152,
+                "name": "Vella Seedai",
+                "description": "A traditional Tamil Nadu dish called Vella Seedai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/vella_seedai.jpg",
+                "video": "https://example.com/videos/vella_seedai.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Vella Seedai.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "Thatta Payaru Sundal",
+                "description": "A traditional Tamil Nadu dish called Thatta Payaru Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/thatta_payaru_sundal.jpg",
+                "video": "https://example.com/videos/thatta_payaru_sundal.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Thatta Payaru Sundal.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "Masala Peanuts",
+                "description": "A traditional Tamil Nadu dish called Masala Peanuts, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/masala_peanuts.jpg",
+                "video": "https://example.com/videos/masala_peanuts.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Masala Peanuts.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "Chilli Bajji",
+                "description": "A traditional Tamil Nadu dish called Chilli Bajji, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/chilli_bajji.jpg",
+                "video": "https://example.com/videos/chilli_bajji.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Chilli Bajji.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 156,
+                "name": "Kumbakonam Kadappa",
+                "description": "A traditional Tamil Nadu dish called Kumbakonam Kadappa, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kumbakonam_kadappa.jpg",
+                "video": "https://example.com/videos/kumbakonam_kadappa.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Kumbakonam Kadappa.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "Adhirasam",
+                "description": "A traditional Tamil Nadu dish called Adhirasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/adhirasam.jpg",
+                "video": "https://example.com/videos/adhirasam.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Adhirasam.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "Athirasam",
+                "description": "A traditional Tamil Nadu dish called Athirasam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/athirasam.jpg",
+                "video": "https://example.com/videos/athirasam.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Athirasam.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "Aval Mixture",
+                "description": "A traditional Tamil Nadu dish called Aval Mixture, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/aval_mixture.jpg",
+                "video": "https://example.com/videos/aval_mixture.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Aval Mixture.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "Chettinad Kuzhi Paniyaram",
+                "description": "A traditional Tamil Nadu dish called Chettinad Kuzhi Paniyaram, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/chettinad_kuzhi_paniyaram.jpg",
+                "video": "https://example.com/videos/chettinad_kuzhi_paniyaram.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Chettinad Kuzhi Paniyaram.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "Kambu Pakoda",
+                "description": "A traditional Tamil Nadu dish called Kambu Pakoda, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kambu_pakoda.jpg",
+                "video": "https://example.com/videos/kambu_pakoda.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Kambu Pakoda.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 162,
+                "name": "Pani Puri Tamil Style",
+                "description": "A traditional Tamil Nadu dish called Pani Puri Tamil Style, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/pani_puri_tamil_style.jpg",
+                "video": "https://example.com/videos/pani_puri_tamil_style.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Pani Puri Tamil Style.",
+                "ingredients": [
+                    "Rava",
+                    "Curd",
+                    "Green chilies",
+                    "Mustard seeds",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 163,
+                "name": "Garlic Kara Sev",
+                "description": "A traditional Tamil Nadu dish called Garlic Kara Sev, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/garlic_kara_sev.jpg",
+                "video": "https://example.com/videos/garlic_kara_sev.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Garlic Kara Sev.",
+                "ingredients": [
+                    "Rice",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 164,
+                "name": "Spicy Butter Murukku",
+                "description": "A traditional Tamil Nadu dish called Spicy Butter Murukku, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/spicy_butter_murukku.jpg",
+                "video": "https://example.com/videos/spicy_butter_murukku.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Spicy Butter Murukku.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 165,
+                "name": "Kadalai Mittai",
+                "description": "A traditional Tamil Nadu dish called Kadalai Mittai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kadalai_mittai.jpg",
+                "video": "https://example.com/videos/kadalai_mittai.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Kadalai Mittai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water",
+                    "Oil"
+                ]
+            },
+            {
+                "id": 166,
+                "name": "Verkadalai Urundai",
+                "description": "A traditional Tamil Nadu dish called Verkadalai Urundai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/verkadalai_urundai.jpg",
+                "video": "https://example.com/videos/verkadalai_urundai.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Verkadalai Urundai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Ghee",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 167,
+                "name": "Badusha",
+                "description": "A traditional Tamil Nadu dish called Badusha, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/badusha.jpg",
+                "video": "https://example.com/videos/badusha.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Badusha.",
+                "ingredients": [
+                    "Dosa batter",
+                    "Potato",
+                    "Onion",
+                    "Turmeric",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 168,
+                "name": "Boondi Mixture",
+                "description": "A traditional Tamil Nadu dish called Boondi Mixture, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/boondi_mixture.jpg",
+                "video": "https://example.com/videos/boondi_mixture.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Boondi Mixture.",
+                "ingredients": [
+                    "Rava",
+                    "Rice flour",
+                    "Green chilies",
+                    "Curry leaves",
+                    "Salt"
+                ]
+            },
+            {
+                "id": 169,
+                "name": "Onion Kara Sev",
+                "description": "A traditional Tamil Nadu dish called Onion Kara Sev, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/onion_kara_sev.jpg",
+                "video": "https://example.com/videos/onion_kara_sev.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Onion Kara Sev.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Onion",
+                    "Green chilies",
+                    "Coriander"
+                ]
+            },
+            {
+                "id": 170,
+                "name": "Kadalai Urundai",
+                "description": "A traditional Tamil Nadu dish called Kadalai Urundai, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kadalai_urundai.jpg",
+                "video": "https://example.com/videos/kadalai_urundai.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Kadalai Urundai.",
+                "ingredients": [
+                    "Rice",
+                    "Urad dal",
+                    "Fenugreek seeds",
+                    "Salt",
+                    "Water"
+                ]
+            },
+            {
+                "id": 171,
+                "name": "Rava Laddoo",
+                "description": "A traditional Tamil Nadu dish called Rava Laddoo, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rava_laddoo.jpg",
+                "video": "https://example.com/videos/rava_laddoo.mp4",
+                "price": 31,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Rava Laddoo.",
+                "ingredients": [
+                    "Toor dal",
+                    "Tamarind",
+                    "Tomato",
+                    "Carrots",
+                    "Sambar powder"
+                ]
+            },
+            {
+                "id": 172,
+                "name": "Maida Burfi",
+                "description": "A traditional Tamil Nadu dish called Maida Burfi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/maida_burfi.jpg",
+                "video": "https://example.com/videos/maida_burfi.mp4",
+                "price": 32,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Maida Burfi.",
+                "ingredients": [
+                    "Tamarind",
+                    "Tomatoes",
+                    "Black pepper",
+                    "Cumin seeds",
+                    "Garlic"
+                ]
+            },
+            {
+                "id": 173,
+                "name": "Kothu Chappathi",
+                "description": "A traditional Tamil Nadu dish called Kothu Chappathi, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kothu_chappathi.jpg",
+                "video": "https://example.com/videos/kothu_chappathi.mp4",
+                "price": 33,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Kothu Chappathi.",
+                "ingredients": [
+                    "Rice",
+                    "Moong dal",
+                    "Black pepper",
+                    "Cumin",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 174,
+                "name": "Kuli Paniyaram",
+                "description": "A traditional Tamil Nadu dish called Kuli Paniyaram, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/kuli_paniyaram.jpg",
+                "video": "https://example.com/videos/kuli_paniyaram.mp4",
+                "price": 34,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Kuli Paniyaram.",
+                "ingredients": [
+                    "Rice",
+                    "Jaggery",
+                    "Cardamom",
+                    "Ghee",
+                    "Cashews"
+                ]
+            },
+            {
+                "id": 175,
+                "name": "Rajma Sundal",
+                "description": "A traditional Tamil Nadu dish called Rajma Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rajma_sundal.jpg",
+                "video": "https://example.com/videos/rajma_sundal.mp4",
+                "price": 35,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Rajma Sundal.",
+                "ingredients": [
+                    "Chickpeas",
+                    "Coconut",
+                    "Mustard seeds",
+                    "Curry leaves",
+                    "Green chilies"
+                ]
+            },
+            {
+                "id": 176,
+                "name": "Moong Dal Sundal",
+                "description": "A traditional Tamil Nadu dish called Moong Dal Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/moong_dal_sundal.jpg",
+                "video": "https://example.com/videos/moong_dal_sundal.mp4",
+                "price": 36,
+                "rating": 4.1,
+                "preparation": "Step-by-step preparation instructions for Moong Dal Sundal.",
+                "ingredients": [
+                    "Gram flour",
+                    "Potatoes",
+                    "Rice flour",
+                    "Red chili powder",
+                    "Asafoetida"
+                ]
+            },
+            {
+                "id": 177,
+                "name": "Coconut Chips",
+                "description": "A traditional Tamil Nadu dish called Coconut Chips, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/coconut_chips.jpg",
+                "video": "https://example.com/videos/coconut_chips.mp4",
+                "price": 37,
+                "rating": 4.2,
+                "preparation": "Step-by-step preparation instructions for Coconut Chips.",
+                "ingredients": [
+                    "Rice flour",
+                    "Jaggery",
+                    "Cardamom",
+                    "Sesame seeds",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 178,
+                "name": "Nellikai Sundal",
+                "description": "A traditional Tamil Nadu dish called Nellikai Sundal, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/nellikai_sundal.jpg",
+                "video": "https://example.com/videos/nellikai_sundal.mp4",
+                "price": 38,
+                "rating": 4.3,
+                "preparation": "Step-by-step preparation instructions for Nellikai Sundal.",
+                "ingredients": [
+                    "Rice",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom",
+                    "Ghee"
+                ]
+            },
+            {
+                "id": 179,
+                "name": "Mothagam",
+                "description": "A traditional Tamil Nadu dish called Mothagam, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/mothagam.jpg",
+                "video": "https://example.com/videos/mothagam.mp4",
+                "price": 39,
+                "rating": 4.4,
+                "preparation": "Step-by-step preparation instructions for Mothagam.",
+                "ingredients": [
+                    "Gram flour",
+                    "Sugar",
+                    "Ghee",
+                    "Cardamom"
+                ]
+            },
+            {
+                "id": 180,
+                "name": "Rava Kesari",
+                "description": "A traditional Tamil Nadu dish called Rava Kesari, known for its unique flavors and ingredients.",
+                "image": "https://example.com/images/rava_kesari.jpg",
+                "video": "https://example.com/videos/rava_kesari.mp4",
+                "price": 30,
+                "rating": 4.0,
+                "preparation": "Step-by-step preparation instructions for Rava Kesari.",
+                "ingredients": [
+                    "Black gram",
+                    "Curry leaves",
+                    "Pepper",
+                    "Asafoetida",
+                    "Oil"
+                ]
+            }
+        ],
+        "Non-vegetarian":[
+    {
+      "id": 1,
+      "name": "Mutton Kothu Parotta",
+      "description": "The Mutton Kothu Parotta is a delicious mutton dish typical of Tamil Nadu cuisine, prepared with traditional spices and methods.",
+      "ingredients": [
+        "mutton",
+        "onion",
+        "tomato",
+        "garam masala",
+        "ginger",
+        "garlic",
+        "spices"
+      ],
+      "price": 151,
+      "rating": 4.5,
+      "image": "url_to_mutton_kothu_parotta_image",
+      "video": "url_to_mutton_kothu_parotta_video"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Kothu Parotta",
+      "description": "The Chicken Kothu Parotta is a delicious chicken dish typical of Tamil Nadu cuisine, prepared with traditional spices and methods.",
+      "ingredients": [
+        "chicken",
+        "onion",
+        "tomato",
+        "curry leaves",
+        "ginger",
+        "garlic",
+        "spices"
+      ],
+      "price": 152,
+      "rating": 4.0,
+      "image": "url_to_chicken_kothu_parotta_image",
+      "video": "url_to_chicken_kothu_parotta_video"
+    },
+    {
+      "id": 3,
+      "name": "Egg Kothu Parotta",
+      "description": "The Egg Kothu Parotta is a delicious egg dish typical of Tamil Nadu cuisine, prepared with traditional spices and methods.",
+      "ingredients": [
+        "egg",
+        "onion",
+        "tomato",
+        "green chili",
+        "spices"
+      ],
+      "price": 153,
+      "rating": 4.5,
+      "image": "url_to_egg_kothu_parotta_image",
+      "video": "url_to_egg_kothu_parotta_video"
+    },
+    {
+      "id": 4,
+      "name": "Kari Dosa (Mutton Dosa)",
+      "description": "The Kari Dosa (Mutton Dosa) is a delicious mutton dish served with a crispy dosa, typical of Tamil Nadu cuisine.",
+      "ingredients": [
+        "mutton",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 154,
+      "rating": 4.0,
+      "image": "url_to_kari_dosa_mutton_dosa_image",
+      "video": "url_to_kari_dosa_mutton_dosa_video"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Dosa",
+      "description": "The Chicken Dosa is a delicious chicken dish served with a crispy dosa, a classic from Tamil Nadu.",
+      "ingredients": [
+        "chicken",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "curry leaves",
+        "spices"
+      ],
+      "price": 155,
+      "rating": 4.5,
+      "image": "url_to_chicken_dosa_image",
+      "video": "url_to_chicken_dosa_video"
+    },
+    {
+      "id": 6,
+      "name": "Egg Dosa",
+      "description": "The Egg Dosa is a delicious egg dish served with a crispy dosa, typical of Tamil Nadu cuisine.",
+      "ingredients": [
+        "egg",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "green chili",
+        "spices"
+      ],
+      "price": 156,
+      "rating": 4.0,
+      "image": "url_to_egg_dosa_image",
+      "video": "url_to_egg_dosa_video"
+    },
+    {
+      "id": 7,
+      "name": "Prawn Dosa",
+      "description": "The Prawn Dosa is a delicious prawn dish served with a crispy dosa, a specialty of Tamil Nadu.",
+      "ingredients": [
+        "prawns",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "curry leaves",
+        "spices"
+      ],
+      "price": 157,
+      "rating": 4.5,
+      "image": "url_to_prawn_dosa_image",
+      "video": "url_to_prawn_dosa_video"
+    },
+    {
+      "id": 8,
+      "name": "Fish Dosa",
+      "description": "The Fish Dosa is a delicious fish dish served with a crispy dosa, reflecting the coastal flavors of Tamil Nadu.",
+      "ingredients": [
+        "fish",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "lime",
+        "spices"
+      ],
+      "price": 158,
+      "rating": 4.0,
+      "image": "url_to_fish_dosa_image",
+      "video": "url_to_fish_dosa_video"
+    },
+    {
+      "id": 9,
+      "name": "Nattu Kozhi Dosai (Country Chicken Dosa)",
+      "description": "The Nattu Kozhi Dosai is a delicious country chicken dish served with a crispy dosa, showcasing authentic Tamil flavors.",
+      "ingredients": [
+        "chicken",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "curry leaves",
+        "spices"
+      ],
+      "price": 159,
+      "rating": 4.5,
+      "image": "url_to_nattu_kozhi_dosai_image",
+      "video": "url_to_nattu_kozhi_dosai_video"
+    },
+    {
+      "id": 10,
+      "name": "Crab Dosa",
+      "description": "The Crab Dosa is a delightful crab dish paired with a crispy dosa, a unique offering from Tamil Nadu.",
+      "ingredients": [
+        "crab",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "garam masala",
+        "spices"
+      ],
+      "price": 160,
+      "rating": 4.0,
+      "image": "url_to_crab_dosa_image",
+      "video": "url_to_crab_dosa_video"
+    },
+    {
+      "id": 11,
+      "name": "Mutton Paya with Idiyappam",
+      "description": "The Mutton Paya with Idiyappam is a hearty mutton trotters soup served with steamed string hoppers, a classic Tamil breakfast.",
+      "ingredients": [
+        "mutton trotters",
+        "idiyappam",
+        "onion",
+        "tomato",
+        "spices",
+        "ginger",
+        "garlic"
+      ],
+      "price": 161,
+      "rating": 4.5,
+      "image": "url_to_mutton_paya_with_idiyappam_image",
+      "video": "url_to_mutton_paya_with_idiyappam_video"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Paya with Idiyappam",
+      "description": "The Chicken Paya with Idiyappam is a savory chicken trotters soup served with steamed string hoppers, typical of Tamil Nadu cuisine.",
+      "ingredients": [
+        "chicken trotters",
+        "idiyappam",
+        "onion",
+        "tomato",
+        "spices",
+        "ginger",
+        "garlic"
+      ],
+      "price": 162,
+      "rating": 4.0,
+      "image": "url_to_chicken_paya_with_idiyappam_image",
+      "video": "url_to_chicken_paya_with_idiyappam_video"
+    },
+    {
+      "id": 13,
+      "name": "Mutton Keema Idli",
+      "description": "The Mutton Keema Idli is a delightful twist on traditional idli, filled with spiced minced mutton.",
+      "ingredients": [
+        "minced mutton",
+        "idli batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 163,
+      "rating": 4.5,
+      "image": "url_to_mutton_keema_idli_image",
+      "video": "url_to_mutton_keema_idli_video"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Keema Idli",
+      "description": "The Chicken Keema Idli is a unique idli variant stuffed with spiced minced chicken, a must-try Tamil delicacy.",
+      "ingredients": [
+        "minced chicken",
+        "idli batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 164,
+      "rating": 4.0,
+      "image": "url_to_chicken_keema_idli_image",
+      "video": "url_to_chicken_keema_idli_video"
+    },
+    {
+      "id": 15,
+      "name": "Egg Idli",
+      "description": "The Egg Idli is a protein-packed idli with a perfectly cooked egg, ideal for a nutritious start to your day.",
+      "ingredients": [
+        "egg",
+        "idli batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 165,
+      "rating": 4.5,
+      "image": "url_to_egg_idli_image",
+      "video": "url_to_egg_idli_video"
+    },
+    {
+      "id": 16,
+      "name": "Nalli Elumbu Soup (Bone Marrow Soup)",
+      "description": "The Nalli Elumbu Soup is a rich and flavorful bone marrow soup, offering a hearty taste of Tamil Nadu.",
+      "ingredients": [
+        "bone marrow",
+        "onion",
+        "tomato",
+        "black pepper",
+        "spices"
+      ],
+      "price": 166,
+      "rating": 4.0,
+      "image": "url_to_nalli_elumbu_soup_image",
+      "video": "url_to_nalli_elumbu_soup_video"
+    },
+    {
+      "id": 17,
+      "name": "Kozhi Rasam (Chicken Rasam)",
+      "description": "The Kozhi Rasam is a tangy and spicy chicken rasam, perfect for a light yet flavorful breakfast.",
+      "ingredients": [
+        "chicken",
+        "tomato",
+        "tamarind",
+        "spices",
+        "curry leaves"
+      ],
+      "price": 167,
+      "rating": 4.5,
+      "image": "url_to_kozhi_rasam_image",
+      "video": "url_to_kozhi_rasam_video"
+    },
+    {
+      "id": 18,
+      "name": "Mutton Rasam",
+      "description": "The Mutton Rasam is a robust and aromatic rasam infused with mutton flavors, a signature Tamil delight.",
+      "ingredients": [
+        "mutton",
+        "tomato",
+        "tamarind",
+        "spices",
+        "curry leaves"
+      ],
+      "price": 168,
+      "rating": 4.0,
+      "image": "url_to_mutton_rasam_image",
+      "video": "url_to_mutton_rasam_video"
+    },
+    {
+      "id": 19,
+      "name": "Crab Rasam",
+      "description": "The Crab Rasam offers a unique twist on traditional rasam, with the sweet taste of crab complementing the spicy broth.",
+      "ingredients": [
+        "crab",
+        "tomato",
+        "tamarind",
+        "spices",
+        "curry leaves"
+      ],
+      "price": 169,
+      "rating": 4.5,
+      "image": "url_to_crab_rasam_image",
+      "video": "url_to_crab_rasam_video"
+    },
+    {
+      "id": 20,
+      "name": "Fish Rasam",
+      "description": "The Fish Rasam is a delightful fusion of coastal flavors and tangy rasam, showcasing fresh fish in a spicy broth.",
+      "ingredients": [
+        "fish",
+        "tomato",
+        "tamarind",
+        "spices",
+        "curry leaves"
+      ],
+      "price": 170,
+      "rating": 4.0,
+      "image": "url_to_fish_rasam_image",
+      "video": "url_to_fish_rasam_video"
+    },
+    {
+      "id": 21,
+      "name": "Prawn Rasam",
+      "description": "The Prawn Rasam is a zesty and aromatic rasam enriched with succulent prawns, capturing the essence of Tamil Nadu cuisine.",
+      "ingredients": [
+        "prawns",
+        "tomato",
+        "tamarind",
+        "spices",
+        "curry leaves"
+      ],
+      "price": 171,
+      "rating": 4.5,
+      "image": "url_to_prawn_rasam_image",
+      "video": "url_to_prawn_rasam_video"
+    },
+    {
+      "id": 22,
+      "name": "Egg Upma",
+      "description": "The Egg Upma is a savory breakfast upma enriched with egg, offering a hearty and satisfying start to the day.",
+      "ingredients": [
+        "egg",
+        "semolina",
+        "onion",
+        "green chili",
+        "mustard seeds",
+        "curry leaves"
+      ],
+      "price": 172,
+      "rating": 4.0,
+      "image": "url_to_egg_upma_image",
+      "video": "url_to_egg_upma_video"
+    },
+    {
+      "id": 23,
+      "name": "Mutton Upma",
+      "description": "The Mutton Upma is a unique twist on the traditional upma, featuring tender mutton and a blend of spices.",
+      "ingredients": [
+        "mutton",
+        "semolina",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 173,
+      "rating": 4.5,
+      "image": "url_to_mutton_upma_image",
+      "video": "url_to_mutton_upma_video"
+    },
+    {
+      "id": 24,
+      "name": "Chicken Upma",
+      "description": "The Chicken Upma is a hearty breakfast dish combining the flavors of tender chicken with a traditional upma base.",
+      "ingredients": [
+        "chicken",
+        "semolina",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 174,
+      "rating": 4.0,
+      "image": "url_to_chicken_upma_image",
+      "video": "url_to_chicken_upma_video"
+    },
+    {
+      "id": 25,
+      "name": "Fish Curry with Idiyappam",
+      "description": "The Fish Curry with Idiyappam pairs a spicy, tangy fish curry with soft idiyappam, a beloved Tamil breakfast.",
+      "ingredients": [
+        "fish",
+        "idiyappam",
+        "onion",
+        "tomato",
+        "tamarind",
+        "spices"
+      ],
+      "price": 175,
+      "rating": 4.5,
+      "image": "url_to_fish_curry_with_idiyappam_image",
+      "video": "url_to_fish_curry_with_idiyappam_video"
+    },
+    {
+      "id": 26,
+      "name": "Nethili Meen Curry with Idiyappam (Anchovy Fish Curry)",
+      "description": "The Nethili Meen Curry with Idiyappam is a tangy and spicy anchovy curry served with idiyappam, capturing coastal Tamil flavors.",
+      "ingredients": [
+        "anchovies",
+        "idiyappam",
+        "onion",
+        "tomato",
+        "tamarind",
+        "spices"
+      ],
+      "price": 176,
+      "rating": 4.0,
+      "image": "url_to_nethili_meen_curry_with_idiyappam_image",
+      "video": "url_to_nethili_meen_curry_with_idiyappam_video"
+    },
+    {
+      "id": 27,
+      "name": "Crab Masala with Idiyappam",
+      "description": "The Crab Masala with Idiyappam is a robust crab curry served with soft idiyappam, a perfect blend of spice and texture.",
+      "ingredients": [
+        "crab",
+        "idiyappam",
+        "onion",
+        "tomato",
+        "garam masala",
+        "spices"
+      ],
+      "price": 177,
+      "rating": 4.5,
+      "image": "url_to_crab_masala_with_idiyappam_image",
+      "video": "url_to_crab_masala_with_idiyappam_video"
+    },
+    {
+      "id": 28,
+      "name": "Chicken Kurma with Idiyappam",
+      "description": "The Chicken Kurma with Idiyappam is a creamy, aromatic chicken curry served with idiyappam, embodying Tamil Nadu's rich culinary heritage.",
+      "ingredients": [
+        "chicken",
+        "idiyappam",
+        "onion",
+        "tomato",
+        "curry leaves",
+        "spices"
+      ],
+      "price": 178,
+      "rating": 4.0,
+      "image": "url_to_chicken_kurma_with_idiyappam_image",
+      "video": "url_to_chicken_kurma_with_idiyappam_video"
+    },
+    {
+      "id": 29,
+      "name": "Mutton Kurma with Parotta",
+      "description": "The Mutton Kurma with Parotta is a lavish mutton curry served with flaky parotta, a true delight of Tamil cuisine.",
+      "ingredients": [
+        "mutton",
+        "parotta",
+        "onion",
+        "tomato",
+        "garam masala",
+        "spices"
+      ],
+      "price": 179,
+      "rating": 4.5,
+      "image": "url_to_mutton_kurma_with_parotta_image",
+      "video": "url_to_mutton_kurma_with_parotta_video"
+    },
+    {
+      "id": 30,
+      "name": "Chicken Kurma with Parotta",
+      "description": "The Chicken Kurma with Parotta is a rich and flavorful chicken curry paired with parotta, offering a sumptuous Tamil meal.",
+      "ingredients": [
+        "chicken",
+        "parotta",
+        "onion",
+        "tomato",
+        "curry leaves",
+        "spices"
+      ],
+      "price": 180,
+      "rating": 4.0,
+      "image": "url_to_chicken_kurma_with_parotta_image",
+      "video": "url_to_chicken_kurma_with_parotta_video"
+    },
+    {
+      "id": 31,
+      "name": "Mutton Kuzhambu with Dosa",
+      "description": "The Mutton Kuzhambu with Dosa is a spicy mutton stew served with crispy dosa, reflecting the robust flavors of Tamil Nadu.",
+      "ingredients": [
+        "mutton",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 181,
+      "rating": 4.5,
+      "image": "url_to_mutton_kuzhambu_with_dosa_image",
+      "video": "url_to_mutton_kuzhambu_with_dosa_video"
+    },
+    {
+      "id": 32,
+      "name": "Chicken Kuzhambu with Dosa",
+      "description": "The Chicken Kuzhambu with Dosa is a tangy chicken stew paired with a crispy dosa, a flavorful breakfast from Tamil Nadu.",
+      "ingredients": [
+        "chicken",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 182,
+      "rating": 4.0,
+      "image": "url_to_chicken_kuzhambu_with_dosa_image",
+      "video": "url_to_chicken_kuzhambu_with_dosa_video"
+    },
+    {
+      "id": 33,
+      "name": "Prawn Kuzhambu with Dosa",
+      "description": "The Prawn Kuzhambu with Dosa features succulent prawns in a spicy stew served with dosa, embodying coastal Tamil flavors.",
+      "ingredients": [
+        "prawns",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 183,
+      "rating": 4.5,
+      "image": "url_to_prawn_kuzhambu_with_dosa_image",
+      "video": "url_to_prawn_kuzhambu_with_dosa_video"
+    },
+    {
+      "id": 34,
+      "name": "Crab Kuzhambu with Dosa",
+      "description": "The Crab Kuzhambu with Dosa is a tangy crab stew served with a crispy dosa, offering a unique Tamil culinary experience.",
+      "ingredients": [
+        "crab",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 184,
+      "rating": 4.0,
+      "image": "url_to_crab_kuzhambu_with_dosa_image",
+      "video": "url_to_crab_kuzhambu_with_dosa_video"
+    },
+    {
+      "id": 35,
+      "name": "Fish Kuzhambu with Dosa",
+      "description": "The Fish Kuzhambu with Dosa is a zesty fish stew paired with dosa, combining coastal freshness with Tamil spices.",
+      "ingredients": [
+        "fish",
+        "dosa batter",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 185,
+      "rating": 4.5,
+      "image": "url_to_fish_kuzhambu_with_dosa_image",
+      "video": "url_to_fish_kuzhambu_with_dosa_video"
+    },
+    {
+      "id": 36,
+      "name": "Mutton Sukka with Parotta",
+      "description": "The Mutton Sukka with Parotta is a dry-fried mutton delicacy served with flaky parotta, perfect for spice lovers.",
+      "ingredients": [
+        "mutton",
+        "parotta",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 186,
+      "rating": 4.0,
+      "image": "url_to_mutton_sukka_with_parotta_image",
+      "video": "url_to_mutton_sukka_with_parotta_video"
+    },
+    {
+      "id": 37,
+      "name": "Chicken Sukka with Parotta",
+      "description": "The Chicken Sukka with Parotta features dry-fried chicken with aromatic spices served with parotta, a traditional Tamil treat.",
+      "ingredients": [
+        "chicken",
+        "parotta",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 187,
+      "rating": 4.5,
+      "image": "url_to_chicken_sukka_with_parotta_image",
+      "video": "url_to_chicken_sukka_with_parotta_video"
+    },
+    {
+      "id": 38,
+      "name": "Nandu Omelette (Crab Omelette)",
+      "description": "The Nandu Omelette (Crab Omelette) is a unique omelette infused with crab flavors, offering a delightful twist to your breakfast.",
+      "ingredients": [
+        "crab",
+        "egg",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 188,
+      "rating": 4.0,
+      "image": "url_to_nandu_omelette_image",
+      "video": "url_to_nandu_omelette_video"
+    },
+    {
+      "id": 39,
+      "name": "Prawn Omelette",
+      "description": "The Prawn Omelette is a protein-rich omelette featuring succulent prawns and a blend of spices, perfect for a hearty breakfast.",
+      "ingredients": [
+        "prawns",
+        "egg",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 189,
+      "rating": 4.5,
+      "image": "url_to_prawn_omelette_image",
+      "video": "url_to_prawn_omelette_video"
+    },
+    {
+      "id": 40,
+      "name": "Mutton Omelette",
+      "description": "The Mutton Omelette is a robust omelette enriched with tender mutton pieces, bringing a unique flavor to a traditional dish.",
+      "ingredients": [
+        "mutton",
+        "egg",
+        "onion",
+        "tomato",
+        "spices"
+      ],
+      "price": 190,
+      "rating": 4.0,
+      "image": "url_to_mutton_omelette_image",
+      "video": "url_to_mutton_omelette_video"
+    }]
+}
