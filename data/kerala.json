@@ -1,6 +1,5 @@
- {
+ [{
     "vegetarian":[
-     
             {
                 "id": 1,
                 "name": "Puttu",
@@ -2247,8 +2246,7 @@
                 "image": "https://example.com/images/thalassery_biryani_(vegetarian).jpg",
                 "video": "https://example.com/videos/thalassery_biryani_(vegetarian).mp4"
             }
-        
-    ],
+        ]},{
     "Non-vegetarian":[
         {
             "id": 1,
@@ -4545,5 +4543,5 @@
             "image": "https://example.com/kerala_nadan_pepper_crab.jpg",
             "video": "https://example.com/kerala_nadan_pepper_crab.mp4"
         }
-    ]
- }
+    ]}
+]
