@@ -1,4 +1,6 @@
-[
+[{
+    "vegetarian":[
+
     {
         "id": 1,
         "name": "Kadhi Pakora",
@@ -10402,3 +10404,4 @@
         "video": "https://example.com/kadhi-pakora-video.mp4"
     }
 ]
+}]
