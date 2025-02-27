@@ -14,8 +14,8 @@
             "price": 40,
             "rating": 4.0,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/pesarattu_(green_gram_dosa).jpg",
-            "video": "https://youtube.com/example_pesarattu_(green_gram_dosa)"
+            "image": "https://tse4.mm.bing.net/th?id=OIP.ZYBBkWEPAsqKsgpJTt8qAAHaHk&pid=Api&P=0&h=180",
+            "video": "https://www.youtube.com/embed/CWrVwg7XMso?si=qltjWGbI1Sxxj9sV"
         },
         {
             "id": 2,
@@ -32,8 +32,8 @@
             "price": 50,
             "rating": 4.1,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/mla_pesarattu.jpg",
-            "video": "https://youtube.com/example_mla_pesarattu"
+            "image": "https://tse2.mm.bing.net/th?id=OIP.T9-rZF5m702c0hXt7EpwzgHaEK&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/7M1q5HCgMUg?si=IUrZaWxGjNTcSzvH"
         },
         {
             "id": 3,
@@ -47,8 +47,8 @@
             "price": 60,
             "rating": 4.2,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/plain_dosa.jpg",
-            "video": "https://youtube.com/example_plain_dosa"
+            "image": "https://tse2.mm.bing.net/th?id=OIP.XfDgCWT190DU3Rj9nLEG-wHaJ4&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/g6lJiImhSCY?si=uFiRQh0B4wbWoyFk"
         },
         {
             "id": 4,
@@ -65,8 +65,8 @@
             "price": 70,
             "rating": 4.3,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/masala_dosa.jpg",
-            "video": "https://youtube.com/example_masala_dosa"
+            "image": "https://tse1.mm.bing.net/th?id=OIP.6oD0novhYLdS3Bfbu-rSPgHaFj&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/UbpSYuzrOdc?si=ai9pEmlsgkTKRmmY"
         },
         {
             "id": 5,
@@ -82,8 +82,8 @@
             "price": 80,
             "rating": 4.4,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/rava_dosa.jpg",
-            "video": "https://youtube.com/example_rava_dosa"
+            "image": "https://tse2.mm.bing.net/th?id=OIP.226MxDz4cZoNEvCLEm3kjAHaLH&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/e8Fr_wVKm-I?si=3MioNzjmC517xQoN"
         },
         {
             "id": 6,
@@ -98,8 +98,8 @@
             "price": 40,
             "rating": 4.0,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/atukula_dosa.jpg",
-            "video": "https://youtube.com/example_atukula_dosa"
+            "image": "https://tse4.mm.bing.net/th?id=OIP.0k2dKHkAgj8845gBHgmFvAHaEK&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/cKLW5-1XhmY?si=etQaq8lNrxvq7OZO"
         },
         {
             "id": 7,
@@ -113,8 +113,8 @@
             "price": 50,
             "rating": 4.1,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/neer_dosa.jpg",
-            "video": "https://youtube.com/example_neer_dosa"
+            "image": "https://tse1.mm.bing.net/th?id=OIP.0MOhEQ7Hkl0pVZdkWsBCCwHaF7&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/Rw9nMboEmb4?si=zBKfFTd9A10biLV_"
         },
         {
             "id": 8,
@@ -129,8 +129,8 @@
             "price": 60,
             "rating": 4.2,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/set_dosa.jpg",
-            "video": "https://youtube.com/example_set_dosa"
+            "image": "https://tse2.mm.bing.net/th?id=OIP.khVyPIG0d1eb4QJPSfov7gHaGn&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/340XOkzcjh0?si=MN5DUeklzHQRL-Qo"
         },
         {
             "id": 9,
@@ -146,8 +146,8 @@
             "price": 70,
             "rating": 4.3,
             "preparation": "Prepare as per traditional methods, cook, and serve hot.",
-            "image": "https://example.com/ulli_karam_dosa.jpg",
-            "video": "https://youtube.com/example_ulli_karam_dosa"
+            "image": "https://tse2.mm.bing.net/th?id=OIP.kArZlOa_5NDN6Hn5VpUNcAHaEq&pid=Api&P=0&h=180",
+            "video": "https://youtu.be/auOhmXLdUVE?si=IDgj4rFUWxPsDuFD"
         },
         {
             "id": 10,
@@ -7118,4 +7118,5 @@
                 "video": "https://example.com/videos/spiced_egg_mousse.mp4"
             }
         ]
-    }]
+    }
+]
