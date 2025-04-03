@@ -751,12 +751,3569 @@
               "image": "https://tse3.mm.bing.net/th?id=OIP.4ImN9AfrwkRTLnGnKS1g9wHaJ4&pid=Api&P=0&h=180",
               "video": "https://example.com/videos/palak_dal.mp4"
             },
-        ]
-    
-    },
-    {
-        "Non-vegetarian":[
-            
-        ]    
+            {
+              "id": 51,
+              "name": "Tomato Saar",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 100,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/tomato_saar.jpg",
+              "video": "https://example.com/videos/tomato_saar.mp4"
+            },
+            {
+              "id": 52,
+              "name": "Moong Usal",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 101,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/moong_usal.jpg",
+              "video": "https://example.com/videos/moong_usal.mp4"
+            },
+            {
+              "id": 53,
+              "name": "Kadve Vaal Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 102,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/kadve_vaal_bhaji.jpg",
+              "video": "https://example.com/videos/kadve_vaal_bhaji.mp4"
+            },
+            {
+              "id": 54,
+              "name": "Chana Dal Amti",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 103,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/chana_dal_amti.jpg",
+              "video": "https://example.com/videos/chana_dal_amti.mp4"
+            },
+            {
+              "id": 55,
+              "name": "Tomato Amti",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 104,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/tomato_amti.jpg",
+              "video": "https://example.com/videos/tomato_amti.mp4"
+            },
+            {
+              "id": 56,
+              "name": "Golyanchi Amti",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 105,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/golyanchi_amti.jpg",
+              "video": "https://example.com/videos/golyanchi_amti.mp4"
+            },
+            {
+              "id": 57,
+              "name": "Palak Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 106,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/palak_bhaji.jpg",
+              "video": "https://example.com/videos/palak_bhaji.mp4"
+            },
+            {
+              "id": 58,
+              "name": "Aluchi Patal Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 107,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/aluchi_patal_bhaji.jpg",
+              "video": "https://example.com/videos/aluchi_patal_bhaji.mp4"
+            },
+            {
+              "id": 59,
+              "name": "Tambda Rassa",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 108,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/tambda_rassa.jpg",
+              "video": "https://example.com/videos/tambda_rassa.mp4"
+            },
+            {
+              "id": 60,
+              "name": "Pandhra Rassa",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 109,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/pandhra_rassa.jpg",
+              "video": "https://example.com/videos/pandhra_rassa.mp4"
+            },
+            {
+              "id": 61,
+              "name": "Masoor Amti",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 110,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/masoor_amti.jpg",
+              "video": "https://example.com/videos/masoor_amti.mp4"
+            },
+            {
+              "id": 62,
+              "name": "Kolambi Bhaat",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 111,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/kolambi_bhaat.jpg",
+              "video": "https://example.com/videos/kolambi_bhaat.mp4"
+            },
+            {
+              "id": 63,
+              "name": "Dhokla Bhaat",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 112,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/dhokla_bhaat.jpg",
+              "video": "https://example.com/videos/dhokla_bhaat.mp4"
+            },
+            {
+              "id": 64,
+              "name": "Patodi Rassa",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 113,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/patodi_rassa.jpg",
+              "video": "https://example.com/videos/patodi_rassa.mp4"
+            },
+            {
+              "id": 65,
+              "name": "Karela Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 114,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/karela_bhaji.jpg",
+              "video": "https://example.com/videos/karela_bhaji.mp4"
+            },
+            {
+              "id": 66,
+              "name": "Kanda Batata Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 115,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/kanda_batata_bhaji.jpg",
+              "video": "https://example.com/videos/kanda_batata_bhaji.mp4"
+            },
+            {
+              "id": 67,
+              "name": "Capsicum Besan Sabji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 116,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/capsicum_besan_sabji.jpg",
+              "video": "https://example.com/videos/capsicum_besan_sabji.mp4"
+            },
+            {
+              "id": 68,
+              "name": "Methi Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 117,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/methi_bhaji.jpg",
+              "video": "https://example.com/videos/methi_bhaji.mp4"
+            },
+            {
+              "id": 69,
+              "name": "Kobi Batata Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 118,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/kobi_batata_bhaji.jpg",
+              "video": "https://example.com/videos/kobi_batata_bhaji.mp4"
+            },
+            {
+              "id": 70,
+              "name": "Tondli Batata Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 119,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/tondli_batata_bhaji.jpg",
+              "video": "https://example.com/videos/tondli_batata_bhaji.mp4"
+            },
+            {
+              "id": 71,
+              "name": "Bhoplyachi Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 120,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/bhoplyachi_bhaji.jpg",
+              "video": "https://example.com/videos/bhoplyachi_bhaji.mp4"
+            },
+            {
+              "id": 72,
+              "name": "Gavarfali Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 121,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/gavarfali_bhaji.jpg",
+              "video": "https://example.com/videos/gavarfali_bhaji.mp4"
+            },
+            {
+              "id": 73,
+              "name": "Spring Onion Sabji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 122,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/spring_onion_sabji.jpg",
+              "video": "https://example.com/videos/spring_onion_sabji.mp4"
+            },
+            {
+              "id": 74,
+              "name": "Harbhara Usal",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 123,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/harbhara_usal.jpg",
+              "video": "https://example.com/videos/harbhara_usal.mp4"
+            },
+            {
+              "id": 75,
+              "name": "Papad Sabzi",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 124,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/papad_sabzi.jpg",
+              "video": "https://example.com/videos/papad_sabzi.mp4"
+            },
+            {
+              "id": 76,
+              "name": "Batata Suki Bhaji",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 125,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/batata_suki_bhaji.jpg",
+              "video": "https://example.com/videos/batata_suki_bhaji.mp4"
+            },
+            {
+              "id": 77,
+              "name": "Ridge Gourd Masala",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 126,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/ridge_gourd_masala.jpg",
+              "video": "https://example.com/videos/ridge_gourd_masala.mp4"
+            },
+            {
+              "id": 78,
+              "name": "Vangyache Kaap",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 127,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/vangyache_kaap.jpg",
+              "video": "https://example.com/videos/vangyache_kaap.mp4"
+            },
+            {
+              "id": 79,
+              "name": "Beetroot Raita",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 128,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/beetroot_raita.jpg",
+              "video": "https://example.com/videos/beetroot_raita.mp4"
+            },
+            {
+              "id": 80,
+              "name": "Dahi Baingan",
+              "description": "A delicious main course dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 129,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/dahi_baingan.jpg",
+              "video": "https://example.com/videos/dahi_baingan.mp4"
+            },
+            {
+              "id": 81,
+              "name": "Vada Pav",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 130,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/vada_pav.jpg",
+              "video": "https://example.com/videos/vada_pav.mp4"
+            },
+            {
+              "id": 82,
+              "name": "Batata Vada",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 131,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/batata_vada.jpg",
+              "video": "https://example.com/videos/batata_vada.mp4"
+            },
+            {
+              "id": 83,
+              "name": "Pav Bhaji",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 132,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/pav_bhaji.jpg",
+              "video": "https://example.com/videos/pav_bhaji.mp4"
+            },
+            {
+              "id": 84,
+              "name": "Bhel Puri",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 133,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/bhel_puri.jpg",
+              "video": "https://example.com/videos/bhel_puri.mp4"
+            },
+            {
+              "id": 85,
+              "name": "Sev Puri",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 134,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/sev_puri.jpg",
+              "video": "https://example.com/videos/sev_puri.mp4"
+            },
+            {
+              "id": 86,
+              "name": "Dabeli",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 135,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/dabeli.jpg",
+              "video": "https://example.com/videos/dabeli.mp4"
+            },
+            {
+              "id": 87,
+              "name": "Masala Puri",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 136,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/masala_puri.jpg",
+              "video": "https://example.com/videos/masala_puri.mp4"
+            },
+            {
+              "id": 88,
+              "name": "Ragda Pattice",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 137,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/ragda_pattice.jpg",
+              "video": "https://example.com/videos/ragda_pattice.mp4"
+            },
+            {
+              "id": 89,
+              "name": "Pani Puri",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 138,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/pani_puri.jpg",
+              "video": "https://example.com/videos/pani_puri.mp4"
+            },
+            {
+              "id": 90,
+              "name": "Dahi Puri",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 139,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/dahi_puri.jpg",
+              "video": "https://example.com/videos/dahi_puri.mp4"
+            },
+            {
+              "id": 91,
+              "name": "Masala Papad",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 140,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/masala_papad.jpg",
+              "video": "https://example.com/videos/masala_papad.mp4"
+            },
+            {
+              "id": 92,
+              "name": "Poha Chivda",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 141,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/poha_chivda.jpg",
+              "video": "https://example.com/videos/poha_chivda.mp4"
+            },
+            {
+              "id": 93,
+              "name": "Alu Chivda",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 142,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/alu_chivda.jpg",
+              "video": "https://example.com/videos/alu_chivda.mp4"
+            },
+            {
+              "id": 94,
+              "name": "Shankarpali",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 143,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/shankarpali.jpg",
+              "video": "https://example.com/videos/shankarpali.mp4"
+            },
+            {
+              "id": 95,
+              "name": "Tikhat Sev",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 144,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/tikhat_sev.jpg",
+              "video": "https://example.com/videos/tikhat_sev.mp4"
+            },
+            {
+              "id": 96,
+              "name": "Gathiya Sev",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 145,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/gathiya_sev.jpg",
+              "video": "https://example.com/videos/gathiya_sev.mp4"
+            },
+            {
+              "id": 97,
+              "name": "Fried Moong Dal",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 146,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/fried_moong_dal.jpg",
+              "video": "https://example.com/videos/fried_moong_dal.mp4"
+            },
+            {
+              "id": 98,
+              "name": "Chakli",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 147,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/chakli.jpg",
+              "video": "https://example.com/videos/chakli.mp4"
+            },
+            {
+              "id": 99,
+              "name": "Bhakarwadi",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 148,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/bhakarwadi.jpg",
+              "video": "https://example.com/videos/bhakarwadi.mp4"
+            },
+            {
+              "id": 100,
+              "name": "Banana Chips",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 149,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/banana_chips.jpg",
+              "video": "https://example.com/videos/banana_chips.mp4"
+            },
+            {
+              "id": 101,
+              "name": "Masala Peanuts",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 50,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/masala_peanuts.jpg",
+              "video": "https://example.com/videos/masala_peanuts.mp4"
+            },
+            {
+              "id": 102,
+              "name": "Kela Bhajiya",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 51,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/kela_bhajiya.jpg",
+              "video": "https://example.com/videos/kela_bhajiya.mp4"
+            },
+            {
+              "id": 103,
+              "name": "Sabudana Vada",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 52,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/sabudana_vada.jpg",
+              "video": "https://example.com/videos/sabudana_vada.mp4"
+            },
+            {
+              "id": 104,
+              "name": "Patra",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 53,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/patra.jpg",
+              "video": "https://example.com/videos/patra.mp4"
+            },
+            {
+              "id": 105,
+              "name": "Corn Pakora",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 54,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/corn_pakora.jpg",
+              "video": "https://example.com/videos/corn_pakora.mp4"
+            },
+            {
+              "id": 106,
+              "name": "Onion Bhajiya",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 55,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/onion_bhajiya.jpg",
+              "video": "https://example.com/videos/onion_bhajiya.mp4"
+            },
+            {
+              "id": 107,
+              "name": "Palak Pakora",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 56,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/palak_pakora.jpg",
+              "video": "https://example.com/videos/palak_pakora.mp4"
+            },
+            {
+              "id": 108,
+              "name": "Aloo Pakora",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 57,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/aloo_pakora.jpg",
+              "video": "https://example.com/videos/aloo_pakora.mp4"
+            },
+            {
+              "id": 109,
+              "name": "Rava Pakora",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 58,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/rava_pakora.jpg",
+              "video": "https://example.com/videos/rava_pakora.mp4"
+            },
+            {
+              "id": 110,
+              "name": "Mirchi Bhajiya",
+              "description": "A delicious snacks dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 59,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/mirchi_bhajiya.jpg",
+              "video": "https://example.com/videos/mirchi_bhajiya.mp4"
+            },
+            {
+              "id": 111,
+              "name": "Gulab Jamun",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 60,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/gulab_jamun.jpg",
+              "video": "https://example.com/videos/gulab_jamun.mp4"
+            },
+            {
+              "id": 112,
+              "name": "Jalebi",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 61,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/jalebi.jpg",
+              "video": "https://example.com/videos/jalebi.mp4"
+            },
+            {
+              "id": 113,
+              "name": "Shrikhand",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 62,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/shrikhand.jpg",
+              "video": "https://example.com/videos/shrikhand.mp4"
+            },
+            {
+              "id": 114,
+              "name": "Amrakhand",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 63,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/amrakhand.jpg",
+              "video": "https://example.com/videos/amrakhand.mp4"
+            },
+            {
+              "id": 115,
+              "name": "Modak",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 64,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/modak.jpg",
+              "video": "https://example.com/videos/modak.mp4"
+            },
+            {
+              "id": 116,
+              "name": "Tilgul Ladoo",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 65,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/tilgul_ladoo.jpg",
+              "video": "https://example.com/videos/tilgul_ladoo.mp4"
+            },
+            {
+              "id": 117,
+              "name": "Besan Ladoo",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 66,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/besan_ladoo.jpg",
+              "video": "https://example.com/videos/besan_ladoo.mp4"
+            },
+            {
+              "id": 118,
+              "name": "Rava Ladoo",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 67,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/rava_ladoo.jpg",
+              "video": "https://example.com/videos/rava_ladoo.mp4"
+            },
+            {
+              "id": 119,
+              "name": "Kaju Katli",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 68,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/kaju_katli.jpg",
+              "video": "https://example.com/videos/kaju_katli.mp4"
+            },
+            {
+              "id": 120,
+              "name": "Peda",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 69,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/peda.jpg",
+              "video": "https://example.com/videos/peda.mp4"
+            },
+            {
+              "id": 121,
+              "name": "Dink Ladoo",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 70,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/dink_ladoo.jpg",
+              "video": "https://example.com/videos/dink_ladoo.mp4"
+            },
+            {
+              "id": 122,
+              "name": "Anarse",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 71,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/anarse.jpg",
+              "video": "https://example.com/videos/anarse.mp4"
+            },
+            {
+              "id": 123,
+              "name": "Kharvas",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 72,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/kharvas.jpg",
+              "video": "https://example.com/videos/kharvas.mp4"
+            },
+            {
+              "id": 124,
+              "name": "Mohanthal",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 73,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/mohanthal.jpg",
+              "video": "https://example.com/videos/mohanthal.mp4"
+            },
+            {
+              "id": 125,
+              "name": "Coconut Barfi",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 74,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/coconut_barfi.jpg",
+              "video": "https://example.com/videos/coconut_barfi.mp4"
+            },
+            {
+              "id": 126,
+              "name": "Dudhi Halwa",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 75,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/dudhi_halwa.jpg",
+              "video": "https://example.com/videos/dudhi_halwa.mp4"
+            },
+            {
+              "id": 127,
+              "name": "Ras Malai",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 76,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/ras_malai.jpg",
+              "video": "https://example.com/videos/ras_malai.mp4"
+            },
+            {
+              "id": 128,
+              "name": "Badam Halwa",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 77,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/badam_halwa.jpg",
+              "video": "https://example.com/videos/badam_halwa.mp4"
+            },
+            {
+              "id": 129,
+              "name": "Pineapple Sheera",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 78,
+              "rating": 3.5,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/pineapple_sheera.jpg",
+              "video": "https://example.com/videos/pineapple_sheera.mp4"
+            },
+            {
+              "id": 130,
+              "name": "Basundi",
+              "description": "A delicious sweets dish from Maharashtra, made with authentic ingredients and spices.",
+              "price": 79,
+              "rating": 4.0,
+              "ingredients": [
+                "Ingredient 1",
+                "Ingredient 2",
+                "Spices",
+                "Oil"
+              ],
+              "image": "https://example.com/images/basundi.jpg",
+              "video": "https://example.com/videos/basundi.mp4"
+            }
+          ]
+    },{
+    "Non-vegetarian":[
+        {
+            "id": 1,
+            "name": "Egg Bhurji Pav",
+            "description": "Egg Bhurji Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 152.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/egg_bhurji_pav.jpg",
+            "video": "https://example.com/videos/egg_bhurji_pav.mp4"
+        },
+        {
+            "id": 2,
+            "name": "Chicken Keema Pav",
+            "description": "Chicken Keema Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 155.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_keema_pav.jpg",
+            "video": "https://example.com/videos/chicken_keema_pav.mp4"
+        },
+        {
+            "id": 3,
+            "name": "Mutton Keema Pav",
+            "description": "Mutton Keema Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 157.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/mutton_keema_pav.jpg",
+            "video": "https://example.com/videos/mutton_keema_pav.mp4"
+        },
+        {
+            "id": 4,
+            "name": "Fish Cutlet Sandwich",
+            "description": "Fish Cutlet Sandwich is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 160.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/fish_cutlet_sandwich.jpg",
+            "video": "https://example.com/videos/fish_cutlet_sandwich.mp4"
+        },
+        {
+            "id": 5,
+            "name": "Egg Masala Dosa",
+            "description": "Egg Masala Dosa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 162.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/egg_masala_dosa.jpg",
+            "video": "https://example.com/videos/egg_masala_dosa.mp4"
+        },
+        {
+            "id": 6,
+            "name": "Anda Ghotala",
+            "description": "Anda Ghotala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 165.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/anda_ghotala.jpg",
+            "video": "https://example.com/videos/anda_ghotala.mp4"
+        },
+        {
+            "id": 7,
+            "name": "Spicy Chicken Omelette",
+            "description": "Spicy Chicken Omelette is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 167.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/spicy_chicken_omelette.jpg",
+            "video": "https://example.com/videos/spicy_chicken_omelette.mp4"
+        },
+        {
+            "id": 8,
+            "name": "Mutton Kheema Dosa",
+            "description": "Mutton Kheema Dosa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 170.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/mutton_kheema_dosa.jpg",
+            "video": "https://example.com/videos/mutton_kheema_dosa.mp4"
+        },
+        {
+            "id": 9,
+            "name": "Paya Soup with Bread",
+            "description": "Paya Soup with Bread is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 172.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/paya_soup_with_bread.jpg",
+            "video": "https://example.com/videos/paya_soup_with_bread.mp4"
+        },
+        {
+            "id": 10,
+            "name": "Kolhapuri Anda Curry",
+            "description": "Kolhapuri Anda Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 175.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/kolhapuri_anda_curry.jpg",
+            "video": "https://example.com/videos/kolhapuri_anda_curry.mp4"
+        },
+        {
+            "id": 11,
+            "name": "Egg Frankie",
+            "description": "Egg Frankie is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 177.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/egg_frankie.jpg",
+            "video": "https://example.com/videos/egg_frankie.mp4"
+        },
+        {
+            "id": 12,
+            "name": "Chicken Mughlai Paratha",
+            "description": "Chicken Mughlai Paratha is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 180.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_mughlai_paratha.jpg",
+            "video": "https://example.com/videos/chicken_mughlai_paratha.mp4"
+        },
+        {
+            "id": 13,
+            "name": "Tandoori Chicken Sandwich",
+            "description": "Tandoori Chicken Sandwich is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 182.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/tandoori_chicken_sandwich.jpg",
+            "video": "https://example.com/videos/tandoori_chicken_sandwich.mp4"
+        },
+        {
+            "id": 14,
+            "name": "Fish Bhurji Pav",
+            "description": "Fish Bhurji Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 185.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/fish_bhurji_pav.jpg",
+            "video": "https://example.com/videos/fish_bhurji_pav.mp4"
+        },
+        {
+            "id": 15,
+            "name": "Chicken Cheese Pav",
+            "description": "Chicken Cheese Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 187.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/chicken_cheese_pav.jpg",
+            "video": "https://example.com/videos/chicken_cheese_pav.mp4"
+        },
+        {
+            "id": 16,
+            "name": "Mutton Shami Kebab Roll",
+            "description": "Mutton Shami Kebab Roll is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 190.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/mutton_shami_kebab_roll.jpg",
+            "video": "https://example.com/videos/mutton_shami_kebab_roll.mp4"
+        },
+        {
+            "id": 17,
+            "name": "Kolhapuri Egg Bhurji",
+            "description": "Kolhapuri Egg Bhurji is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 192.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/kolhapuri_egg_bhurji.jpg",
+            "video": "https://example.com/videos/kolhapuri_egg_bhurji.mp4"
+        },
+        {
+            "id": 18,
+            "name": "Egg Paratha Roll",
+            "description": "Egg Paratha Roll is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 195.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/egg_paratha_roll.jpg",
+            "video": "https://example.com/videos/egg_paratha_roll.mp4"
+        },
+        {
+            "id": 19,
+            "name": "Chicken Tandoori Parantha",
+            "description": "Chicken Tandoori Parantha is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 197.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/chicken_tandoori_parantha.jpg",
+            "video": "https://example.com/videos/chicken_tandoori_parantha.mp4"
+        },
+        {
+            "id": 20,
+            "name": "Mutton Masala Pav",
+            "description": "Mutton Masala Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 200.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_masala_pav.jpg",
+            "video": "https://example.com/videos/mutton_masala_pav.mp4"
+        },
+        {
+            "id": 21,
+            "name": "Egg Curry with Roti",
+            "description": "Egg Curry with Roti is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 202.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/egg_curry_with_roti.jpg",
+            "video": "https://example.com/videos/egg_curry_with_roti.mp4"
+        },
+        {
+            "id": 22,
+            "name": "Chicken Bhuna Roll",
+            "description": "Chicken Bhuna Roll is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 205.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_bhuna_roll.jpg",
+            "video": "https://example.com/videos/chicken_bhuna_roll.mp4"
+        },
+        {
+            "id": 23,
+            "name": "Egg Malvani Curry with Rice Bhakri",
+            "description": "Egg Malvani Curry with Rice Bhakri is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 207.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/egg_malvani_curry_with_rice_bhakri.jpg",
+            "video": "https://example.com/videos/egg_malvani_curry_with_rice_bhakri.mp4"
+        },
+        {
+            "id": 24,
+            "name": "Mutton Liver Fry with Pav",
+            "description": "Mutton Liver Fry with Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 210.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/mutton_liver_fry_with_pav.jpg",
+            "video": "https://example.com/videos/mutton_liver_fry_with_pav.mp4"
+        },
+        {
+            "id": 25,
+            "name": "Kolambi (Prawn) Poha",
+            "description": "Kolambi (Prawn) Poha is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 212.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/kolambi_(prawn)_poha.jpg",
+            "video": "https://example.com/videos/kolambi_(prawn)_poha.mp4"
+        },
+        {
+            "id": 26,
+            "name": "Bombil (Bombay Duck) Fry Sandwich",
+            "description": "Bombil (Bombay Duck) Fry Sandwich is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 215.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/bombil_(bombay_duck)_fry_sandwich.jpg",
+            "video": "https://example.com/videos/bombil_(bombay_duck)_fry_sandwich.mp4"
+        },
+        {
+            "id": 27,
+            "name": "Egg Biryani for Breakfast",
+            "description": "Egg Biryani for Breakfast is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 217.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/egg_biryani_for_breakfast.jpg",
+            "video": "https://example.com/videos/egg_biryani_for_breakfast.mp4"
+        },
+        {
+            "id": 28,
+            "name": "Sukka Mutton with Bhakri",
+            "description": "Sukka Mutton with Bhakri is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 220.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/sukka_mutton_with_bhakri.jpg",
+            "video": "https://example.com/videos/sukka_mutton_with_bhakri.mp4"
+        },
+        {
+            "id": 29,
+            "name": "Spicy Chicken Khichdi",
+            "description": "Spicy Chicken Khichdi is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 222.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/spicy_chicken_khichdi.jpg",
+            "video": "https://example.com/videos/spicy_chicken_khichdi.mp4"
+        },
+        {
+            "id": 30,
+            "name": "Tandoori Anda Bhurji",
+            "description": "Tandoori Anda Bhurji is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 225.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/tandoori_anda_bhurji.jpg",
+            "video": "https://example.com/videos/tandoori_anda_bhurji.mp4"
+        },
+        {
+            "id": 31,
+            "name": "Kolhapuri Chicken Tambda Rassa",
+            "description": "Kolhapuri Chicken Tambda Rassa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 227.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/kolhapuri_chicken_tambda_rassa.jpg",
+            "video": "https://example.com/videos/kolhapuri_chicken_tambda_rassa.mp4"
+        },
+        {
+            "id": 32,
+            "name": "Kolhapuri Mutton Pandhra Rassa",
+            "description": "Kolhapuri Mutton Pandhra Rassa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 230.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/kolhapuri_mutton_pandhra_rassa.jpg",
+            "video": "https://example.com/videos/kolhapuri_mutton_pandhra_rassa.mp4"
+        },
+        {
+            "id": 33,
+            "name": "Malvani Fish Curry",
+            "description": "Malvani Fish Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 232.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/malvani_fish_curry.jpg",
+            "video": "https://example.com/videos/malvani_fish_curry.mp4"
+        },
+        {
+            "id": 34,
+            "name": "Prawns Sukka Masala",
+            "description": "Prawns Sukka Masala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 235.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/prawns_sukka_masala.jpg",
+            "video": "https://example.com/videos/prawns_sukka_masala.mp4"
+        },
+        {
+            "id": 35,
+            "name": "Mutton Rassa Curry",
+            "description": "Mutton Rassa Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 237.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_rassa_curry.jpg",
+            "video": "https://example.com/videos/mutton_rassa_curry.mp4"
+        },
+        {
+            "id": 36,
+            "name": "Chicken Rassa Curry",
+            "description": "Chicken Rassa Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 240.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/chicken_rassa_curry.jpg",
+            "video": "https://example.com/videos/chicken_rassa_curry.mp4"
+        },
+        {
+            "id": 37,
+            "name": "Mutton Sukka (Dry Mutton)",
+            "description": "Mutton Sukka (Dry Mutton) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 242.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/mutton_sukka_(dry_mutton).jpg",
+            "video": "https://example.com/videos/mutton_sukka_(dry_mutton).mp4"
+        },
+        {
+            "id": 38,
+            "name": "Malvani Chicken Sukka",
+            "description": "Malvani Chicken Sukka is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 245.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/malvani_chicken_sukka.jpg",
+            "video": "https://example.com/videos/malvani_chicken_sukka.mp4"
+        },
+        {
+            "id": 39,
+            "name": "Chicken Masala Fry",
+            "description": "Chicken Masala Fry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 247.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/chicken_masala_fry.jpg",
+            "video": "https://example.com/videos/chicken_masala_fry.mp4"
+        },
+        {
+            "id": 40,
+            "name": "Tisrya Masala (Clam Curry)",
+            "description": "Tisrya Masala (Clam Curry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 250.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/tisrya_masala_(clam_curry).jpg",
+            "video": "https://example.com/videos/tisrya_masala_(clam_curry).mp4"
+        },
+        {
+            "id": 41,
+            "name": "Prawn Koliwada",
+            "description": "Prawn Koliwada is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 252.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/prawn_koliwada.jpg",
+            "video": "https://example.com/videos/prawn_koliwada.mp4"
+        },
+        {
+            "id": 42,
+            "name": "Bombil Fry (Bombay Duck Fry)",
+            "description": "Bombil Fry (Bombay Duck Fry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 255.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/bombil_fry_(bombay_duck_fry).jpg",
+            "video": "https://example.com/videos/bombil_fry_(bombay_duck_fry).mp4"
+        },
+        {
+            "id": 43,
+            "name": "Pomfret Fry",
+            "description": "Pomfret Fry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 257.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/pomfret_fry.jpg",
+            "video": "https://example.com/videos/pomfret_fry.mp4"
+        },
+        {
+            "id": 44,
+            "name": "Surmai (Kingfish) Fry",
+            "description": "Surmai (Kingfish) Fry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 260.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/surmai_(kingfish)_fry.jpg",
+            "video": "https://example.com/videos/surmai_(kingfish)_fry.mp4"
+        },
+        {
+            "id": 45,
+            "name": "Mutton Bhuna Masala",
+            "description": "Mutton Bhuna Masala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 262.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_bhuna_masala.jpg",
+            "video": "https://example.com/videos/mutton_bhuna_masala.mp4"
+        },
+        {
+            "id": 46,
+            "name": "Kolhapuri Mutton Fry",
+            "description": "Kolhapuri Mutton Fry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 265.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/kolhapuri_mutton_fry.jpg",
+            "video": "https://example.com/videos/kolhapuri_mutton_fry.mp4"
+        },
+        {
+            "id": 47,
+            "name": "Chicken Saoji (Nagpur Special)",
+            "description": "Chicken Saoji (Nagpur Special) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 267.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_saoji_(nagpur_special).jpg",
+            "video": "https://example.com/videos/chicken_saoji_(nagpur_special).mp4"
+        },
+        {
+            "id": 48,
+            "name": "Tandoori Pomfret",
+            "description": "Tandoori Pomfret is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 270.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/tandoori_pomfret.jpg",
+            "video": "https://example.com/videos/tandoori_pomfret.mp4"
+        },
+        {
+            "id": 49,
+            "name": "Surmai Curry",
+            "description": "Surmai Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 272.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/surmai_curry.jpg",
+            "video": "https://example.com/videos/surmai_curry.mp4"
+        },
+        {
+            "id": 50,
+            "name": "Mutton Ukad (Steamed Mutton Dish)",
+            "description": "Mutton Ukad (Steamed Mutton Dish) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 275.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_ukad_(steamed_mutton_dish).jpg",
+            "video": "https://example.com/videos/mutton_ukad_(steamed_mutton_dish).mp4"
+        },
+        {
+            "id": 51,
+            "name": "Paya Soup (Lamb Trotters Soup)",
+            "description": "Paya Soup (Lamb Trotters Soup) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 277.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/paya_soup_(lamb_trotters_soup).jpg",
+            "video": "https://example.com/videos/paya_soup_(lamb_trotters_soup).mp4"
+        },
+        {
+            "id": 52,
+            "name": "Chicken Kharda (Spicy Chicken Curry)",
+            "description": "Chicken Kharda (Spicy Chicken Curry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 280.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_kharda_(spicy_chicken_curry).jpg",
+            "video": "https://example.com/videos/chicken_kharda_(spicy_chicken_curry).mp4"
+        },
+        {
+            "id": 53,
+            "name": "Mutton Biryani (Maharashtrian Style)",
+            "description": "Mutton Biryani (Maharashtrian Style) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 282.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/mutton_biryani_(maharashtrian_style).jpg",
+            "video": "https://example.com/videos/mutton_biryani_(maharashtrian_style).mp4"
+        },
+        {
+            "id": 54,
+            "name": "Chicken Biryani",
+            "description": "Chicken Biryani is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 285.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/chicken_biryani.jpg",
+            "video": "https://example.com/videos/chicken_biryani.mp4"
+        },
+        {
+            "id": 55,
+            "name": "Surmai Kalvan (Kingfish Gravy)",
+            "description": "Surmai Kalvan (Kingfish Gravy) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 287.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/surmai_kalvan_(kingfish_gravy).jpg",
+            "video": "https://example.com/videos/surmai_kalvan_(kingfish_gravy).mp4"
+        },
+        {
+            "id": 56,
+            "name": "Malvani Crab Curry",
+            "description": "Malvani Crab Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 290.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/malvani_crab_curry.jpg",
+            "video": "https://example.com/videos/malvani_crab_curry.mp4"
+        },
+        {
+            "id": 57,
+            "name": "Chicken Sagoti (Coconut Chicken Curry)",
+            "description": "Chicken Sagoti (Coconut Chicken Curry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 292.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_sagoti_(coconut_chicken_curry).jpg",
+            "video": "https://example.com/videos/chicken_sagoti_(coconut_chicken_curry).mp4"
+        },
+        {
+            "id": 58,
+            "name": "Kolambi Bhaat (Prawn Rice)",
+            "description": "Kolambi Bhaat (Prawn Rice) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 295.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/kolambi_bhaat_(prawn_rice).jpg",
+            "video": "https://example.com/videos/kolambi_bhaat_(prawn_rice).mp4"
+        },
+        {
+            "id": 59,
+            "name": "Fish Pulav",
+            "description": "Fish Pulav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 297.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/fish_pulav.jpg",
+            "video": "https://example.com/videos/fish_pulav.mp4"
+        },
+        {
+            "id": 60,
+            "name": "Mutton Pulav",
+            "description": "Mutton Pulav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 300.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_pulav.jpg",
+            "video": "https://example.com/videos/mutton_pulav.mp4"
+        },
+        {
+            "id": 61,
+            "name": "Mutton Keema Masala",
+            "description": "Mutton Keema Masala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 302.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/mutton_keema_masala.jpg",
+            "video": "https://example.com/videos/mutton_keema_masala.mp4"
+        },
+        {
+            "id": 62,
+            "name": "Egg Masala Curry",
+            "description": "Egg Masala Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 305.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/egg_masala_curry.jpg",
+            "video": "https://example.com/videos/egg_masala_curry.mp4"
+        },
+        {
+            "id": 63,
+            "name": "Chicken Handi Curry",
+            "description": "Chicken Handi Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 307.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/chicken_handi_curry.jpg",
+            "video": "https://example.com/videos/chicken_handi_curry.mp4"
+        },
+        {
+            "id": 64,
+            "name": "Prawns Green Masala",
+            "description": "Prawns Green Masala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 310.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/prawns_green_masala.jpg",
+            "video": "https://example.com/videos/prawns_green_masala.mp4"
+        },
+        {
+            "id": 65,
+            "name": "Kombdi Wade (Chicken with Deep-Fried Bread)",
+            "description": "Kombdi Wade (Chicken with Deep-Fried Bread) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 312.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/kombdi_wade_(chicken_with_deep-fried_bread).jpg",
+            "video": "https://example.com/videos/kombdi_wade_(chicken_with_deep-fried_bread).mp4"
+        },
+        {
+            "id": 66,
+            "name": "Clam Sukka (Shellfish Dry Dish)",
+            "description": "Clam Sukka (Shellfish Dry Dish) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 315.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/clam_sukka_(shellfish_dry_dish).jpg",
+            "video": "https://example.com/videos/clam_sukka_(shellfish_dry_dish).mp4"
+        },
+        {
+            "id": 67,
+            "name": "Mutton Liver Curry",
+            "description": "Mutton Liver Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 317.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/mutton_liver_curry.jpg",
+            "video": "https://example.com/videos/mutton_liver_curry.mp4"
+        },
+        {
+            "id": 68,
+            "name": "Chicken Gassi (Mangalorean-style Curry)",
+            "description": "Chicken Gassi (Mangalorean-style Curry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 320.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/chicken_gassi_(mangalorean-style_curry).jpg",
+            "video": "https://example.com/videos/chicken_gassi_(mangalorean-style_curry).mp4"
+        },
+        {
+            "id": 69,
+            "name": "Mutton Paya Masala",
+            "description": "Mutton Paya Masala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 322.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/mutton_paya_masala.jpg",
+            "video": "https://example.com/videos/mutton_paya_masala.mp4"
+        },
+        {
+            "id": 70,
+            "name": "Malvani Chicken Ghee Roast",
+            "description": "Malvani Chicken Ghee Roast is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 325.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/malvani_chicken_ghee_roast.jpg",
+            "video": "https://example.com/videos/malvani_chicken_ghee_roast.mp4"
+        },
+        {
+            "id": 71,
+            "name": "Sukka Bombil (Dry Bombay Duck Fry)",
+            "description": "Sukka Bombil (Dry Bombay Duck Fry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 327.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/sukka_bombil_(dry_bombay_duck_fry).jpg",
+            "video": "https://example.com/videos/sukka_bombil_(dry_bombay_duck_fry).mp4"
+        },
+        {
+            "id": 72,
+            "name": "Kolambi Kalvan (Prawn Curry)",
+            "description": "Kolambi Kalvan (Prawn Curry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 330.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/kolambi_kalvan_(prawn_curry).jpg",
+            "video": "https://example.com/videos/kolambi_kalvan_(prawn_curry).mp4"
+        },
+        {
+            "id": 73,
+            "name": "Malvani Mori Masala (Shark Curry)",
+            "description": "Malvani Mori Masala (Shark Curry) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 332.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/malvani_mori_masala_(shark_curry).jpg",
+            "video": "https://example.com/videos/malvani_mori_masala_(shark_curry).mp4"
+        },
+        {
+            "id": 74,
+            "name": "Egg Tawa Masala",
+            "description": "Egg Tawa Masala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 335.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/egg_tawa_masala.jpg",
+            "video": "https://example.com/videos/egg_tawa_masala.mp4"
+        },
+        {
+            "id": 75,
+            "name": "Mutton Bafat Curry",
+            "description": "Mutton Bafat Curry is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 337.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_bafat_curry.jpg",
+            "video": "https://example.com/videos/mutton_bafat_curry.mp4"
+        },
+        {
+            "id": 76,
+            "name": "Mutton Lonche (Pickled Mutton)",
+            "description": "Mutton Lonche (Pickled Mutton) is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 340.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/mutton_lonche_(pickled_mutton).jpg",
+            "video": "https://example.com/videos/mutton_lonche_(pickled_mutton).mp4"
+        },
+        {
+            "id": 77,
+            "name": "Surmai Fry in Rava",
+            "description": "Surmai Fry in Rava is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 342.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/surmai_fry_in_rava.jpg",
+            "video": "https://example.com/videos/surmai_fry_in_rava.mp4"
+        },
+        {
+            "id": 78,
+            "name": "Prawns Malvani Masala",
+            "description": "Prawns Malvani Masala is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 345.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/prawns_malvani_masala.jpg",
+            "video": "https://example.com/videos/prawns_malvani_masala.mp4"
+        },
+        {
+            "id": 79,
+            "name": "Chicken Vada Pav",
+            "description": "Chicken Vada Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 347.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/chicken_vada_pav.jpg",
+            "video": "https://example.com/videos/chicken_vada_pav.mp4"
+        },
+        {
+            "id": 80,
+            "name": "Mutton Cutlets",
+            "description": "Mutton Cutlets is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 350.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_cutlets.jpg",
+            "video": "https://example.com/videos/mutton_cutlets.mp4"
+        },
+        {
+            "id": 81,
+            "name": "Fish Cutlets",
+            "description": "Fish Cutlets is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 352.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/fish_cutlets.jpg",
+            "video": "https://example.com/videos/fish_cutlets.mp4"
+        },
+        {
+            "id": 82,
+            "name": "Chicken Tikka Kathi Roll",
+            "description": "Chicken Tikka Kathi Roll is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 355.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_tikka_kathi_roll.jpg",
+            "video": "https://example.com/videos/chicken_tikka_kathi_roll.mp4"
+        },
+        {
+            "id": 83,
+            "name": "Kheema Pav",
+            "description": "Kheema Pav is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 357.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/kheema_pav.jpg",
+            "video": "https://example.com/videos/kheema_pav.mp4"
+        },
+        {
+            "id": 84,
+            "name": "Egg Roll",
+            "description": "Egg Roll is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 360.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/egg_roll.jpg",
+            "video": "https://example.com/videos/egg_roll.mp4"
+        },
+        {
+            "id": 85,
+            "name": "Tandoori Chicken Burger",
+            "description": "Tandoori Chicken Burger is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 362.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/tandoori_chicken_burger.jpg",
+            "video": "https://example.com/videos/tandoori_chicken_burger.mp4"
+        },
+        {
+            "id": 86,
+            "name": "Prawn Koliwada Roll",
+            "description": "Prawn Koliwada Roll is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 365.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/prawn_koliwada_roll.jpg",
+            "video": "https://example.com/videos/prawn_koliwada_roll.mp4"
+        },
+        {
+            "id": 87,
+            "name": "Crispy Chicken Pakora",
+            "description": "Crispy Chicken Pakora is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 367.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/crispy_chicken_pakora.jpg",
+            "video": "https://example.com/videos/crispy_chicken_pakora.mp4"
+        },
+        {
+            "id": 88,
+            "name": "Fish Pakora",
+            "description": "Fish Pakora is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 370.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/fish_pakora.jpg",
+            "video": "https://example.com/videos/fish_pakora.mp4"
+        },
+        {
+            "id": 89,
+            "name": "Mutton Seekh Kebab",
+            "description": "Mutton Seekh Kebab is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 372.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/mutton_seekh_kebab.jpg",
+            "video": "https://example.com/videos/mutton_seekh_kebab.mp4"
+        },
+        {
+            "id": 90,
+            "name": "Chicken Seekh Kebab",
+            "description": "Chicken Seekh Kebab is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 375.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/chicken_seekh_kebab.jpg",
+            "video": "https://example.com/videos/chicken_seekh_kebab.mp4"
+        },
+        {
+            "id": 91,
+            "name": "Prawns Tandoori",
+            "description": "Prawns Tandoori is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 377.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/prawns_tandoori.jpg",
+            "video": "https://example.com/videos/prawns_tandoori.mp4"
+        },
+        {
+            "id": 92,
+            "name": "Fish Bhajiya",
+            "description": "Fish Bhajiya is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 380.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/fish_bhajiya.jpg",
+            "video": "https://example.com/videos/fish_bhajiya.mp4"
+        },
+        {
+            "id": 93,
+            "name": "Kolambi Chutney",
+            "description": "Kolambi Chutney is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 382.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/kolambi_chutney.jpg",
+            "video": "https://example.com/videos/kolambi_chutney.mp4"
+        },
+        {
+            "id": 94,
+            "name": "Mutton Tandoori Roll",
+            "description": "Mutton Tandoori Roll is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 385.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/mutton_tandoori_roll.jpg",
+            "video": "https://example.com/videos/mutton_tandoori_roll.mp4"
+        },
+        {
+            "id": 95,
+            "name": "Chicken Lollipop",
+            "description": "Chicken Lollipop is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 387.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/chicken_lollipop.jpg",
+            "video": "https://example.com/videos/chicken_lollipop.mp4"
+        },
+        {
+            "id": 96,
+            "name": "Mutton Samosa",
+            "description": "Mutton Samosa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 390.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/mutton_samosa.jpg",
+            "video": "https://example.com/videos/mutton_samosa.mp4"
+        },
+        {
+            "id": 97,
+            "name": "Chicken Momos",
+            "description": "Chicken Momos is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 392.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_momos.jpg",
+            "video": "https://example.com/videos/chicken_momos.mp4"
+        },
+        {
+            "id": 98,
+            "name": "Malvani Fish Pattice",
+            "description": "Malvani Fish Pattice is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 395.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/malvani_fish_pattice.jpg",
+            "video": "https://example.com/videos/malvani_fish_pattice.mp4"
+        },
+        {
+            "id": 99,
+            "name": "Egg Pudding",
+            "description": "Egg Pudding is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 397.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/egg_pudding.jpg",
+            "video": "https://example.com/videos/egg_pudding.mp4"
+        },
+        {
+            "id": 100,
+            "name": "Mutton Kharvas",
+            "description": "Mutton Kharvas is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 400.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_kharvas.jpg",
+            "video": "https://example.com/videos/mutton_kharvas.mp4"
+        },
+        {
+            "id": 101,
+            "name": "Chicken Mawa Halwa",
+            "description": "Chicken Mawa Halwa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 402.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/chicken_mawa_halwa.jpg",
+            "video": "https://example.com/videos/chicken_mawa_halwa.mp4"
+        },
+        {
+            "id": 102,
+            "name": "Mutton Paya Halwa",
+            "description": "Mutton Paya Halwa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 405.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/mutton_paya_halwa.jpg",
+            "video": "https://example.com/videos/mutton_paya_halwa.mp4"
+        },
+        {
+            "id": 103,
+            "name": "Egg Malai Kheer",
+            "description": "Egg Malai Kheer is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 407.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/egg_malai_kheer.jpg",
+            "video": "https://example.com/videos/egg_malai_kheer.mp4"
+        },
+        {
+            "id": 104,
+            "name": "Egg Custard",
+            "description": "Egg Custard is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 410.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/egg_custard.jpg",
+            "video": "https://example.com/videos/egg_custard.mp4"
+        },
+        {
+            "id": 105,
+            "name": "Mutton Yakhni Pudding",
+            "description": "Mutton Yakhni Pudding is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 412.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/mutton_yakhni_pudding.jpg",
+            "video": "https://example.com/videos/mutton_yakhni_pudding.mp4"
+        },
+        {
+            "id": 106,
+            "name": "Paya Payasam",
+            "description": "Paya Payasam is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 415.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/paya_payasam.jpg",
+            "video": "https://example.com/videos/paya_payasam.mp4"
+        },
+        {
+            "id": 107,
+            "name": "Mutton Ras Malai",
+            "description": "Mutton Ras Malai is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 417.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/mutton_ras_malai.jpg",
+            "video": "https://example.com/videos/mutton_ras_malai.mp4"
+        },
+        {
+            "id": 108,
+            "name": "Chicken Barfi",
+            "description": "Chicken Barfi is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 420.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/chicken_barfi.jpg",
+            "video": "https://example.com/videos/chicken_barfi.mp4"
+        },
+        {
+            "id": 109,
+            "name": "Egg Flan",
+            "description": "Egg Flan is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 422.5,
+            "rating": 4.3,
+            "image": "https://example.com/images/egg_flan.jpg",
+            "video": "https://example.com/videos/egg_flan.mp4"
+        },
+        {
+            "id": 110,
+            "name": "Chicken Dryfruit Laddu",
+            "description": "Chicken Dryfruit Laddu is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 425.0,
+            "rating": 3.5,
+            "image": "https://example.com/images/chicken_dryfruit_laddu.jpg",
+            "video": "https://example.com/videos/chicken_dryfruit_laddu.mp4"
+        },
+        {
+            "id": 111,
+            "name": "Egg Halwa",
+            "description": "Egg Halwa is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 427.5,
+            "rating": 3.7,
+            "image": "https://example.com/images/egg_halwa.jpg",
+            "video": "https://example.com/videos/egg_halwa.mp4"
+        },
+        {
+            "id": 112,
+            "name": "Chicken Kharvas",
+            "description": "Chicken Kharvas is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 430.0,
+            "rating": 3.9,
+            "image": "https://example.com/images/chicken_kharvas.jpg",
+            "video": "https://example.com/videos/chicken_kharvas.mp4"
+        },
+        {
+            "id": 113,
+            "name": "Mutton Coconut Barfi",
+            "description": "Mutton Coconut Barfi is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 432.5,
+            "rating": 4.1,
+            "image": "https://example.com/images/mutton_coconut_barfi.jpg",
+            "video": "https://example.com/videos/mutton_coconut_barfi.mp4"
+        },
+        {
+            "id": 114,
+            "name": "Egg Milk Cake",
+            "description": "Egg Milk Cake is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 435.0,
+            "rating": 4.3,
+            "image": "https://example.com/images/egg_milk_cake.jpg",
+            "video": "https://example.com/videos/egg_milk_cake.mp4"
+        },
+        {
+            "id": 115,
+            "name": "Tandoori Fruit Custard",
+            "description": "Tandoori Fruit Custard is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 437.5,
+            "rating": 3.5,
+            "image": "https://example.com/images/tandoori_fruit_custard.jpg",
+            "video": "https://example.com/videos/tandoori_fruit_custard.mp4"
+        },
+        {
+            "id": 116,
+            "name": "Chicken Rasagulla",
+            "description": "Chicken Rasagulla is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 440.0,
+            "rating": 3.7,
+            "image": "https://example.com/images/chicken_rasagulla.jpg",
+            "video": "https://example.com/videos/chicken_rasagulla.mp4"
+        },
+        {
+            "id": 117,
+            "name": "Egg Chocolate Modak",
+            "description": "Egg Chocolate Modak is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 442.5,
+            "rating": 3.9,
+            "image": "https://example.com/images/egg_chocolate_modak.jpg",
+            "video": "https://example.com/videos/egg_chocolate_modak.mp4"
+        },
+        {
+            "id": 118,
+            "name": "Chicken Gulkand Ladoo",
+            "description": "Chicken Gulkand Ladoo is a popular Maharashtrian non-veg dish known for its rich spices and flavors.",
+            "ingredients": [
+                "Chicken",
+                "Mutton",
+                "Fish",
+                "Eggs",
+                "Spices",
+                "Onions",
+                "Tomatoes",
+                "Garlic",
+                "Ginger"
+            ],
+            "price": 445.0,
+            "rating": 4.1,
+            "image": "https://example.com/images/chicken_gulkand_ladoo.jpg",
+            "video": "https://example.com/videos/chicken_gulkand_ladoo.mp4"
+        }
+    ]
     }
 ]
