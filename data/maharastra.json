@@ -1,6 +1,7 @@
 [
-    "vegetarian":[
-        {
+    {
+        "vegetarain:[
+            {
               "id": 1,
               "name": "Misal Pav",
               "description": "A delicious breakfast dish from Maharashtra, made with authentic ingredients and spices.",
@@ -750,5 +751,12 @@
               "image": "https://tse3.mm.bing.net/th?id=OIP.4ImN9AfrwkRTLnGnKS1g9wHaJ4&pid=Api&P=0&h=180",
               "video": "https://example.com/videos/palak_dal.mp4"
             },
-    ]
+        ]
+    }
+    },
+    {
+        "non-vegetarian":[
+            
+        ]    
+    }
 ]
