@@ -1,4 +1,5 @@
- [{
+ [
+    {
     "vegetarian":[
             {
                 "id": 1,
@@ -12,7 +13,7 @@
                 ],
                 "price": 51,
                 "rating": 4.1,
-                "image": "https://example.com/images/puttu.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.4Z-LyZHAW3gFFx4LcJuE5QHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/puttu.mp4"
             },
             {
@@ -28,7 +29,7 @@
                 ],
                 "price": 52,
                 "rating": 4.2,
-                "image": "https://example.com/images/kadala_curry.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.FUxoBoGbYFw0n_70FuLo5wHaHb&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kadala_curry.mp4"
             },
             {
@@ -44,7 +45,7 @@
                 ],
                 "price": 53,
                 "rating": 4.3,
-                "image": "https://example.com/images/appam.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.26yOYbfHMBDsn2F_ihL0ogHaE7&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/appam.mp4"
             },
             {
@@ -58,7 +59,7 @@
                 ],
                 "price": 54,
                 "rating": 4.4,
-                "image": "https://example.com/images/idiyappam.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.hNKBx4nNqPtq66zxV6uMBQAAAA&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/idiyappam.mp4"
             },
             {
@@ -73,7 +74,7 @@
                 ],
                 "price": 55,
                 "rating": 4.0,
-                "image": "https://example.com/images/dosa.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.Ku5LqSFq8SYDMvs4kVAohwHaE6&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/dosa.mp4"
             },
             {
@@ -89,7 +90,7 @@
                 ],
                 "price": 56,
                 "rating": 4.1,
-                "image": "https://example.com/images/masala_dosa.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.zBv2k-ihxmJWIB16cqRjggHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/masala_dosa.mp4"
             },
             {
@@ -103,7 +104,7 @@
                 ],
                 "price": 57,
                 "rating": 4.2,
-                "image": "https://example.com/images/ghee_roast.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.ZW5oloINYqpl5N_xI-gm8QHaGD&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/ghee_roast.mp4"
             },
             {
@@ -119,7 +120,7 @@
                 ],
                 "price": 58,
                 "rating": 4.3,
-                "image": "https://example.com/images/set_dosa.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.VN7ADCx8LKX2a-xKNhGuCgHaJl&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/set_dosa.mp4"
             },
             {
@@ -133,7 +134,7 @@
                 ],
                 "price": 59,
                 "rating": 4.4,
-                "image": "https://example.com/images/neer_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.ZLSWb8o7Uy59N3ELY_kIygHaJ4&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/neer_dosa.mp4"
             },
             {
@@ -149,7 +150,7 @@
                 ],
                 "price": 60,
                 "rating": 4.0,
-                "image": "https://example.com/images/ragi_dosa.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.XldRgB-HsDkdIKVOaQv-rwHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/ragi_dosa.mp4"
             },
             {
@@ -163,7 +164,7 @@
                 ],
                 "price": 61,
                 "rating": 4.1,
-                "image": "https://example.com/images/wheat_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.pxLb4Ov349Ea8-mq275aGQHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/wheat_dosa.mp4"
             },
             {
@@ -177,7 +178,7 @@
                 ],
                 "price": 62,
                 "rating": 4.2,
-                "image": "https://example.com/images/oats_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.I0R_f09b7eqrWgdNFtN1OgHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/oats_dosa.mp4"
             },
             {
@@ -191,7 +192,7 @@
                 ],
                 "price": 63,
                 "rating": 4.3,
-                "image": "https://example.com/images/uttapam.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.lRw1y2Xtb7nnhA6SMIJBRgHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/uttapam.mp4"
             },
             {
@@ -205,7 +206,7 @@
                 ],
                 "price": 64,
                 "rating": 4.4,
-                "image": "https://example.com/images/rava_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.pyJKWecphx5M97ZZiXP_tAHaKE&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/rava_dosa.mp4"
             },
             {
@@ -219,7 +220,7 @@
                 ],
                 "price": 65,
                 "rating": 4.0,
-                "image": "https://example.com/images/wheat_appam.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.xnqEndmKEWk_GFYm8eAeEQHaKe&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/wheat_appam.mp4"
             },
             {
@@ -233,7 +234,7 @@
                 ],
                 "price": 66,
                 "rating": 4.1,
-                "image": "https://example.com/images/rice_pathiri.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.FCzuFOVmnbs0NhOxEcrS1gHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/rice_pathiri.mp4"
             },
             {
@@ -247,7 +248,7 @@
                 ],
                 "price": 67,
                 "rating": 4.2,
-                "image": "https://example.com/images/ney_pathiri.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.hSX9424WOe-kqsKMUvoH4QHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/ney_pathiri.mp4"
             },
             {
@@ -261,7 +262,7 @@
                 ],
                 "price": 68,
                 "rating": 4.3,
-                "image": "https://example.com/images/kozhukatta.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.yeHb9FCyt71t-e4ecsuh_AHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kozhukatta.mp4"
             },
             {
@@ -275,7 +276,7 @@
                 ],
                 "price": 69,
                 "rating": 4.4,
-                "image": "https://example.com/images/kumbilappam.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.vAobtOiI1LpablyGH93JFgHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kumbilappam.mp4"
             },
             {
@@ -289,7 +290,7 @@
                 ],
                 "price": 50,
                 "rating": 4.0,
-                "image": "https://example.com/images/vattayappam.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.4q_WkYW1KeMwmb9uDrShDAHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/vattayappam.mp4"
             },
             {
@@ -303,7 +304,7 @@
                 ],
                 "price": 51,
                 "rating": 4.1,
-                "image": "https://example.com/images/idli.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.mfAPdsJ8QXXXnVvXZWiQeQHaKH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/idli.mp4"
             },
             {
@@ -317,7 +318,7 @@
                 ],
                 "price": 52,
                 "rating": 4.2,
-                "image": "https://example.com/images/rava_idli.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.XyMsUREZFXgUGaneKw4wDQHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/rava_idli.mp4"
             },
             {
@@ -331,7 +332,7 @@
                 ],
                 "price": 53,
                 "rating": 4.3,
-                "image": "https://example.com/images/thalassery_idli.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.oZpZOHYoaPOQw3Ms0EohYgHaFj&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/thalassery_idli.mp4"
             },
             {
@@ -345,7 +346,7 @@
                 ],
                 "price": 54,
                 "rating": 4.4,
-                "image": "https://example.com/images/kanchipuram_idli.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.FJ-OJuaJb3TRKa0pwRzW3gHaFj&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kanchipuram_idli.mp4"
             },
             {
@@ -359,7 +360,7 @@
                 ],
                 "price": 55,
                 "rating": 4.0,
-                "image": "https://example.com/images/kappa_puzhukku.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.q8_9kQ5VhpPzGinH_pQmxwHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kappa_puzhukku.mp4"
             },
             {
@@ -373,7 +374,7 @@
                 ],
                 "price": 56,
                 "rating": 4.1,
-                "image": "https://example.com/images/idichu_pizhinja_payasam.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.E9Ht1oFp1N2pac4LlSAHtQHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/idichu_pizhinja_payasam.mp4"
             },
             {
@@ -387,64 +388,8 @@
                 ],
                 "price": 57,
                 "rating": 4.2,
-                "image": "https://example.com/images/upma.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.sjaz6RB_h_88N1KRB0xbIwHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/upma.mp4"
-            },
-            {
-                "id": 28,
-                "name": "Aval Upma",
-                "description": "A traditional Kerala dish called Aval Upma, known for its unique flavors and ingredients.",
-                "ingredients": [
-                    "Ingredient 1",
-                    "Ingredient 2",
-                    "Ingredient 3"
-                ],
-                "price": 58,
-                "rating": 4.3,
-                "image": "https://example.com/images/aval_upma.jpg",
-                "video": "https://example.com/videos/aval_upma.mp4"
-            },
-            {
-                "id": 29,
-                "name": "Semiya Upma",
-                "description": "A traditional Kerala dish called Semiya Upma, known for its unique flavors and ingredients.",
-                "ingredients": [
-                    "Ingredient 1",
-                    "Ingredient 2",
-                    "Ingredient 3"
-                ],
-                "price": 59,
-                "rating": 4.4,
-                "image": "https://example.com/images/semiya_upma.jpg",
-                "video": "https://example.com/videos/semiya_upma.mp4"
-            },
-            {
-                "id": 30,
-                "name": "Wheat Upma",
-                "description": "A traditional Kerala dish called Wheat Upma, known for its unique flavors and ingredients.",
-                "ingredients": [
-                    "Ingredient 1",
-                    "Ingredient 2",
-                    "Ingredient 3"
-                ],
-                "price": 60,
-                "rating": 4.0,
-                "image": "https://example.com/images/wheat_upma.jpg",
-                "video": "https://example.com/videos/wheat_upma.mp4"
-            },
-            {
-                "id": 31,
-                "name": "Broken Rice Upma",
-                "description": "A traditional Kerala dish called Broken Rice Upma, known for its unique flavors and ingredients.",
-                "ingredients": [
-                    "Ingredient 1",
-                    "Ingredient 2",
-                    "Ingredient 3"
-                ],
-                "price": 61,
-                "rating": 4.1,
-                "image": "https://example.com/images/broken_rice_upma.jpg",
-                "video": "https://example.com/videos/broken_rice_upma.mp4"
             },
             {
                 "id": 32,
@@ -457,7 +402,7 @@
                 ],
                 "price": 62,
                 "rating": 4.2,
-                "image": "https://example.com/images/ada.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.LSWueK9dZLJ2_Yeeei0i7QHaE_&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/ada.mp4"
             },
             {
@@ -471,7 +416,7 @@
                 ],
                 "price": 63,
                 "rating": 4.3,
-                "image": "https://example.com/images/ela_ada.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.t81Lr6N3BOXRSwEnPcKwEgHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/ela_ada.mp4"
             },
             {
@@ -485,7 +430,7 @@
                 ],
                 "price": 64,
                 "rating": 4.4,
-                "image": "https://example.com/images/pazham_pori.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.UCOjn0-RV_crpNpPpZtnWAHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/pazham_pori.mp4"
             },
             {
@@ -499,7 +444,7 @@
                 ],
                 "price": 65,
                 "rating": 4.0,
-                "image": "https://example.com/images/kharabath.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.hdsO1ZTfo3yO5Vpw4IveMwHaFL&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kharabath.mp4"
             },
             {
@@ -513,7 +458,7 @@
                 ],
                 "price": 66,
                 "rating": 4.1,
-                "image": "https://example.com/images/aval_vilayichathu.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.UTwrfo9_5ZVP0quRD75YsAHaGV&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/aval_vilayichathu.mp4"
             },
             {
@@ -527,7 +472,7 @@
                 ],
                 "price": 67,
                 "rating": 4.2,
-                "image": "https://example.com/images/aval_nanachathu.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.MLOj4OaNTwuSxtza_V5eZAHaGF&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/aval_nanachathu.mp4"
             },
             {
@@ -541,7 +486,7 @@
                 ],
                 "price": 68,
                 "rating": 4.3,
-                "image": "https://example.com/images/avalose_podi.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.bBOXDEM0MtKbe7lf7kvc1AHaKA&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/avalose_podi.mp4"
             },
             {
@@ -555,7 +500,7 @@
                 ],
                 "price": 69,
                 "rating": 4.4,
-                "image": "https://example.com/images/ari_unda.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.m7gJzLnjG5ZAlK4orx-RMQHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/ari_unda.mp4"
             },
             {
@@ -569,7 +514,7 @@
                 ],
                 "price": 50,
                 "rating": 4.0,
-                "image": "https://example.com/images/thari_kanji.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.yLPlSZmh6P9ZJDhsoga6OwHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/thari_kanji.mp4"
             },
             {
@@ -583,7 +528,7 @@
                 ],
                 "price": 51,
                 "rating": 4.1,
-                "image": "https://example.com/images/chakka_puttu.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.k6c1WP-3aR72Wb_k4i7KlAHaF_&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chakka_puttu.mp4"
             },
             {
@@ -597,7 +542,7 @@
                 ],
                 "price": 52,
                 "rating": 4.2,
-                "image": "https://example.com/images/mutta_pathiri.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.fXVK7l7NhW7za_Dq2SHFzQHaJ4&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/mutta_pathiri.mp4"
             },
             {
@@ -611,7 +556,7 @@
                 ],
                 "price": 53,
                 "rating": 4.3,
-                "image": "https://example.com/images/kappa_vevichathu.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.6kXlg8CjbIlPjFUoHAmycwHaJu&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kappa_vevichathu.mp4"
             },
             {
@@ -625,7 +570,7 @@
                 ],
                 "price": 54,
                 "rating": 4.4,
-                "image": "https://example.com/images/malabar_oottappam.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.CpGwrbl_nroDiDpBNScdaAHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/malabar_oottappam.mp4"
             },
             {
@@ -639,7 +584,7 @@
                 ],
                 "price": 55,
                 "rating": 4.0,
-                "image": "https://example.com/images/pesarattu.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.TpSEOSIgOxNqAZ9WZQEZyQHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/pesarattu.mp4"
             },
             {
@@ -653,7 +598,7 @@
                 ],
                 "price": 56,
                 "rating": 4.1,
-                "image": "https://example.com/images/tomato_dosa.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.iEcLELBADWHtSwp5eXISJgHaE9&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/tomato_dosa.mp4"
             },
             {
@@ -667,7 +612,7 @@
                 ],
                 "price": 57,
                 "rating": 4.2,
-                "image": "https://example.com/images/raw_banana_puttu.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.2bs49n5TZCALDNvpGIoLmQHaGx&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/raw_banana_puttu.mp4"
             },
             {
@@ -681,7 +626,7 @@
                 ],
                 "price": 58,
                 "rating": 4.3,
-                "image": "https://example.com/images/sago_upma.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.vd2KESd7VLeqeq5xMgGqFgAAAA&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/sago_upma.mp4"
             },
             {
@@ -695,7 +640,7 @@
                 ],
                 "price": 59,
                 "rating": 4.4,
-                "image": "https://example.com/images/carrot_dosa.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.izUvMEWLcXnnQW02640ctgHaE6&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/carrot_dosa.mp4"
             },
             {
@@ -709,7 +654,7 @@
                 ],
                 "price": 60,
                 "rating": 4.0,
-                "image": "https://example.com/images/red_rice_idli.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.uiZtVGO08RO1Y33oQ61P8AHaEL&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/red_rice_idli.mp4"
             },
             {
@@ -723,7 +668,7 @@
                 ],
                 "price": 61,
                 "rating": 4.1,
-                "image": "https://example.com/images/kodo_millet_idli.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.yoOxsQFeyZQr3qDl0kLPcAHaES&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kodo_millet_idli.mp4"
             },
             {
@@ -737,7 +682,7 @@
                 ],
                 "price": 62,
                 "rating": 4.2,
-                "image": "https://example.com/images/horse_gram_idli.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.ZkR0G5Yz_OvDqMYYeV7x0gHaLK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/horse_gram_idli.mp4"
             },
             {
@@ -751,7 +696,7 @@
                 ],
                 "price": 63,
                 "rating": 4.3,
-                "image": "https://example.com/images/moong_dal_idli.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.TWHXsLpHHdnCnPkJt5rnqQHaJo&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/moong_dal_idli.mp4"
             },
             {
@@ -765,23 +710,10 @@
                 ],
                 "price": 64,
                 "rating": 4.4,
-                "image": "https://example.com/images/barley_idli.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.FV4jnNvUJigqXK8eDZY4owHaJo&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/barley_idli.mp4"
             },
-            {
-                "id": 55,
-                "name": "Barnyard Millet Upma",
-                "description": "A traditional Kerala dish called Barnyard Millet Upma, known for its unique flavors and ingredients.",
-                "ingredients": [
-                    "Ingredient 1",
-                    "Ingredient 2",
-                    "Ingredient 3"
-                ],
-                "price": 65,
-                "rating": 4.0,
-                "image": "https://example.com/images/barnyard_millet_upma.jpg",
-                "video": "https://example.com/videos/barnyard_millet_upma.mp4"
-            },
+            
             {
                 "id": 56,
                 "name": "Varagu Dosa",
@@ -793,7 +725,7 @@
                 ],
                 "price": 66,
                 "rating": 4.1,
-                "image": "https://example.com/images/varagu_dosa.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.lRRvYzXaL-1a2T6q_GKWrwHaE7&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/varagu_dosa.mp4"
             },
             {
@@ -807,23 +739,10 @@
                 ],
                 "price": 67,
                 "rating": 4.2,
-                "image": "https://example.com/images/sorghum_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.uKK6mIE3Jnss5n9oHI1m4wHaHJ&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/sorghum_dosa.mp4"
             },
-            {
-                "id": 58,
-                "name": "Jowar Upma",
-                "description": "A traditional Kerala dish called Jowar Upma, known for its unique flavors and ingredients.",
-                "ingredients": [
-                    "Ingredient 1",
-                    "Ingredient 2",
-                    "Ingredient 3"
-                ],
-                "price": 68,
-                "rating": 4.3,
-                "image": "https://example.com/images/jowar_upma.jpg",
-                "video": "https://example.com/videos/jowar_upma.mp4"
-            },
+            
             {
                 "id": 59,
                 "name": "Jackfruit Idiyappam",
@@ -835,7 +754,7 @@
                 ],
                 "price": 69,
                 "rating": 4.4,
-                "image": "https://example.com/images/jackfruit_idiyappam.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.6d__DLfg1r_XypMMUI4GyAHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/jackfruit_idiyappam.mp4"
             },
             {
@@ -849,7 +768,7 @@
                 ],
                 "price": 50,
                 "rating": 4.0,
-                "image": "https://example.com/images/kurukku_kalan.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.VeMbeYoQnt3WKJR0sMEFUAHaGn&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kurukku_kalan.mp4"
             },
             {
@@ -863,7 +782,7 @@
                 ],
                 "price": 51,
                 "rating": 4.1,
-                "image": "https://example.com/images/uluva_kanji.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.b3AUbFaNH6B05L9sqdDOHgHaFj&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/uluva_kanji.mp4"
             },
             {
@@ -877,7 +796,7 @@
                 ],
                 "price": 52,
                 "rating": 4.2,
-                "image": "https://example.com/images/muthari_kanji.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.WQwMxJS_ViCrP7C640gw9gHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/muthari_kanji.mp4"
             },
             {
@@ -891,7 +810,7 @@
                 ],
                 "price": 53,
                 "rating": 4.3,
-                "image": "https://example.com/images/kanji_payar.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.3AqRLQIaKgjxjvRr7fcskwHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kanji_payar.mp4"
             },
             {
@@ -905,7 +824,7 @@
                 ],
                 "price": 54,
                 "rating": 4.4,
-                "image": "https://example.com/images/navara_rice_kanji.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.f0K2Y7IRrSK7QtXhEelqrgHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/navara_rice_kanji.mp4"
             },
             {
@@ -919,7 +838,7 @@
                 ],
                 "price": 55,
                 "rating": 4.0,
-                "image": "https://example.com/images/cherupayar_kanji.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.yVyUgdT1Vi9WW414KaJgeAHaFa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/cherupayar_kanji.mp4"
             },
             {
@@ -933,7 +852,7 @@
                 ],
                 "price": 56,
                 "rating": 4.1,
-                "image": "https://example.com/images/ragi_mudde.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.Ocj5R7OfPDylr5ErlWA2-gHaD5&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/ragi_mudde.mp4"
             },
             {
@@ -947,7 +866,7 @@
                 ],
                 "price": 57,
                 "rating": 4.2,
-                "image": "https://example.com/images/red_rice_porridge.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.X7_prQGFI2z1DEfYqO8bUAHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/red_rice_porridge.mp4"
             },
             {
@@ -961,7 +880,7 @@
                 ],
                 "price": 58,
                 "rating": 4.3,
-                "image": "https://example.com/images/kumbilappam.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.ftZhRSrwwpG0TbYSMygK3gHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kumbilappam.mp4"
             },
             {
@@ -975,7 +894,7 @@
                 ],
                 "price": 59,
                 "rating": 4.4,
-                "image": "https://example.com/images/chakka_ada.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.hoq56JwNhrw5QdMg2cwctQHaF0&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chakka_ada.mp4"
             },
             {
@@ -989,7 +908,7 @@
                 ],
                 "price": 60,
                 "rating": 4.0,
-                "image": "https://example.com/images/kinnathappam.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.e_ar4wMSBoHvMHy_ylTKwgHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kinnathappam.mp4"
             },
             {
@@ -2246,7 +2165,9 @@
                 "image": "https://example.com/images/thalassery_biryani_(vegetarian).jpg",
                 "video": "https://example.com/videos/thalassery_biryani_(vegetarian).mp4"
             }
-        ]},{
+        ]
+    },
+    {
     "Non-vegetarian":[
         {
             "id": 1,
@@ -2260,7 +2181,7 @@
             ],
             "price": 213,
             "rating": 3.8,
-            "image": "https://example.com/chicken_puttu.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.-QrAKzqZmL9_-v3tjnjGtAHaF1&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_puttu.mp4"
         },
         {
@@ -2275,7 +2196,7 @@
             ],
             "price": 270,
             "rating": 4.2,
-            "image": "https://example.com/egg_puttu.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.CZopYkJN6xpiG5N03lCBpAHaE-&pid=Api&P=0&h=180",
             "video": "https://example.com/egg_puttu.mp4"
         },
         {
@@ -2290,7 +2211,7 @@
             ],
             "price": 128,
             "rating": 4.2,
-            "image": "https://example.com/fish_puttu.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.4pRGa5nzlRN9zEoOxSV9YwHaFj&pid=Api&P=0&h=180",
             "video": "https://example.com/fish_puttu.mp4"
         },
         {
@@ -2305,7 +2226,7 @@
             ],
             "price": 210,
             "rating": 4.5,
-            "image": "https://example.com/chicken_stew_with_appam.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.In9rG25zFopXDOom2VHY0gHaFR&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_stew_with_appam.mp4"
         },
         {
@@ -2320,7 +2241,7 @@
             ],
             "price": 261,
             "rating": 4.9,
-            "image": "https://example.com/egg_curry_with_appam.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.lovSqEtY9fA-8kLvk37w9AHaJ3&pid=Api&P=0&h=180",
             "video": "https://example.com/egg_curry_with_appam.mp4"
         },
         {
@@ -2335,7 +2256,7 @@
             ],
             "price": 180,
             "rating": 4.2,
-            "image": "https://example.com/mutton_stew_with_appam.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.ytlH3k6Jd7h59XbOvUdWjwHaEK&pid=Api&P=0&h=180",
             "video": "https://example.com/mutton_stew_with_appam.mp4"
         },
         {
@@ -2350,7 +2271,7 @@
             ],
             "price": 231,
             "rating": 4.7,
-            "image": "https://example.com/beef_curry_with_appam.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.uAIEezNvsWTtFJMkFsM7ngHaJ4&pid=Api&P=0&h=180",
             "video": "https://example.com/beef_curry_with_appam.mp4"
         },
         {
@@ -2365,7 +2286,7 @@
             ],
             "price": 113,
             "rating": 3.6,
-            "image": "https://example.com/nadan_chicken_curry_with_idiyappam.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.sifCABgHq6npGsq33dnldgHaE6&pid=Api&P=0&h=180",
             "video": "https://example.com/nadan_chicken_curry_with_idiyappam.mp4"
         },
         {
@@ -2380,7 +2301,7 @@
             ],
             "price": 298,
             "rating": 4.5,
-            "image": "https://example.com/nadan_egg_curry_with_idiyappam.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.glzXa_Due1dHuEizxh782QHaFk&pid=Api&P=0&h=180",
             "video": "https://example.com/nadan_egg_curry_with_idiyappam.mp4"
         },
         {
@@ -2395,7 +2316,7 @@
             ],
             "price": 206,
             "rating": 4.4,
-            "image": "https://example.com/fish_curry_with_idiyappam.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.M9vMj0oujPFl-3FC5PfjPgAAAA&pid=Api&P=0&h=180",
             "video": "https://example.com/fish_curry_with_idiyappam.mp4"
         },
         {
@@ -2410,68 +2331,8 @@
             ],
             "price": 143,
             "rating": 3.7,
-            "image": "https://example.com/beef_curry_with_idiyappam.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.z05PGal8K5IESFf6UunC8QHaL0&pid=Api&P=0&h=180",
             "video": "https://example.com/beef_curry_with_idiyappam.mp4"
-        },
-        {
-            "id": 12,
-            "name": "Mutton Curry with Idiyappam",
-            "description": "A delicious Kerala-style mutton curry with idiyappam infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 288,
-            "rating": 4.7,
-            "image": "https://example.com/mutton_curry_with_idiyappam.jpg",
-            "video": "https://example.com/mutton_curry_with_idiyappam.mp4"
-        },
-        {
-            "id": 13,
-            "name": "Kallappam with Chicken Curry",
-            "description": "A delicious Kerala-style kallappam with chicken curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 185,
-            "rating": 3.9,
-            "image": "https://example.com/kallappam_with_chicken_curry.jpg",
-            "video": "https://example.com/kallappam_with_chicken_curry.mp4"
-        },
-        {
-            "id": 14,
-            "name": "Kallappam with Mutton Curry",
-            "description": "A delicious Kerala-style kallappam with mutton curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 271,
-            "rating": 3.9,
-            "image": "https://example.com/kallappam_with_mutton_curry.jpg",
-            "video": "https://example.com/kallappam_with_mutton_curry.mp4"
-        },
-        {
-            "id": 15,
-            "name": "Kallappam with Egg Curry",
-            "description": "A delicious Kerala-style kallappam with egg curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 143,
-            "rating": 4.7,
-            "image": "https://example.com/kallappam_with_egg_curry.jpg",
-            "video": "https://example.com/kallappam_with_egg_curry.mp4"
         },
         {
             "id": 16,
@@ -2485,54 +2346,10 @@
             ],
             "price": 222,
             "rating": 5.0,
-            "image": "https://example.com/malabar_parotta_with_egg_curry.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.KFN_miOsUKqWmNiQtVUR6AHaEK&pid=Api&P=0&h=180",
             "video": "https://example.com/malabar_parotta_with_egg_curry.mp4"
         },
-        {
-            "id": 17,
-            "name": "Malabar Parotta with Chicken Curry",
-            "description": "A delicious Kerala-style malabar parotta with chicken curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 294,
-            "rating": 4.7,
-            "image": "https://example.com/malabar_parotta_with_chicken_curry.jpg",
-            "video": "https://example.com/malabar_parotta_with_chicken_curry.mp4"
-        },
-        {
-            "id": 18,
-            "name": "Malabar Parotta with Mutton Curry",
-            "description": "A delicious Kerala-style malabar parotta with mutton curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 142,
-            "rating": 4.9,
-            "image": "https://example.com/malabar_parotta_with_mutton_curry.jpg",
-            "video": "https://example.com/malabar_parotta_with_mutton_curry.mp4"
-        },
-        {
-            "id": 19,
-            "name": "Malabar Parotta with Beef Curry",
-            "description": "A delicious Kerala-style malabar parotta with beef curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 178,
-            "rating": 3.7,
-            "image": "https://example.com/malabar_parotta_with_beef_curry.jpg",
-            "video": "https://example.com/malabar_parotta_with_beef_curry.mp4"
-        },
+        
         {
             "id": 20,
             "name": "Mutta Dosa with Chicken Masala",
@@ -2545,69 +2362,10 @@
             ],
             "price": 237,
             "rating": 3.9,
-            "image": "https://example.com/mutta_dosa_with_chicken_masala.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.PbJYje__ey6421uvnMvZWgHaLH&pid=Api&P=0&h=180",
             "video": "https://example.com/mutta_dosa_with_chicken_masala.mp4"
         },
-        {
-            "id": 21,
-            "name": "Mutta Dosa with Mutton Masala",
-            "description": "A delicious Kerala-style mutta dosa with mutton masala infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 138,
-            "rating": 4.1,
-            "image": "https://example.com/mutta_dosa_with_mutton_masala.jpg",
-            "video": "https://example.com/mutta_dosa_with_mutton_masala.mp4"
-        },
-        {
-            "id": 22,
-            "name": "Egg Roast with Dosa",
-            "description": "A delicious Kerala-style egg roast with dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 290,
-            "rating": 4.7,
-            "image": "https://example.com/egg_roast_with_dosa.jpg",
-            "video": "https://example.com/egg_roast_with_dosa.mp4"
-        },
-        {
-            "id": 23,
-            "name": "Chicken Roast with Dosa",
-            "description": "A delicious Kerala-style chicken roast with dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 232,
-            "rating": 3.5,
-            "image": "https://example.com/chicken_roast_with_dosa.jpg",
-            "video": "https://example.com/chicken_roast_with_dosa.mp4"
-        },
-        {
-            "id": 24,
-            "name": "Mutton Roast with Dosa",
-            "description": "A delicious Kerala-style mutton roast with dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 131,
-            "rating": 3.8,
-            "image": "https://example.com/mutton_roast_with_dosa.jpg",
-            "video": "https://example.com/mutton_roast_with_dosa.mp4"
-        },
+       
         {
             "id": 25,
             "name": "Kerala Egg Bhurji",
@@ -2620,7 +2378,7 @@
             ],
             "price": 225,
             "rating": 4.7,
-            "image": "https://example.com/kerala_egg_bhurji.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.HRuuTG2BuIJiieEsddO6WgHaFj&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_egg_bhurji.mp4"
         },
         {
@@ -2635,7 +2393,7 @@
             ],
             "price": 243,
             "rating": 3.6,
-            "image": "https://example.com/kerala_fish_dosa.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.HH03WpMTgvkJbpXwZ7usQwHaE8&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_fish_dosa.mp4"
         },
         {
@@ -2650,39 +2408,10 @@
             ],
             "price": 236,
             "rating": 4.3,
-            "image": "https://example.com/chicken_masala_dosa.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.q0DY7OAriFoNT-kjofmP4wHaG7&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_masala_dosa.mp4"
         },
-        {
-            "id": 28,
-            "name": "Mutton Masala Dosa",
-            "description": "A delicious Kerala-style mutton masala dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 130,
-            "rating": 4.0,
-            "image": "https://example.com/mutton_masala_dosa.jpg",
-            "video": "https://example.com/mutton_masala_dosa.mp4"
-        },
-        {
-            "id": 29,
-            "name": "Fish Masala Dosa",
-            "description": "A delicious Kerala-style fish masala dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 170,
-            "rating": 4.6,
-            "image": "https://example.com/fish_masala_dosa.jpg",
-            "video": "https://example.com/fish_masala_dosa.mp4"
-        },
+       
         {
             "id": 30,
             "name": "Kheema Dosa",
@@ -2695,114 +2424,10 @@
             ],
             "price": 129,
             "rating": 4.2,
-            "image": "https://example.com/kheema_dosa.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.EnYBGbFiqtXUMc4P3Cr3mQHaJ3&pid=Api&P=0&h=180",
             "video": "https://example.com/kheema_dosa.mp4"
         },
-        {
-            "id": 31,
-            "name": "Chicken Omelette Dosa",
-            "description": "A delicious Kerala-style chicken omelette dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 115,
-            "rating": 4.0,
-            "image": "https://example.com/chicken_omelette_dosa.jpg",
-            "video": "https://example.com/chicken_omelette_dosa.mp4"
-        },
-        {
-            "id": 32,
-            "name": "Crab Masala with Dosa",
-            "description": "A delicious Kerala-style crab masala with dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 102,
-            "rating": 3.6,
-            "image": "https://example.com/crab_masala_with_dosa.jpg",
-            "video": "https://example.com/crab_masala_with_dosa.mp4"
-        },
-        {
-            "id": 33,
-            "name": "Prawn Roast with Dosa",
-            "description": "A delicious Kerala-style prawn roast with dosa infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 274,
-            "rating": 4.2,
-            "image": "https://example.com/prawn_roast_with_dosa.jpg",
-            "video": "https://example.com/prawn_roast_with_dosa.mp4"
-        },
-        {
-            "id": 34,
-            "name": "Prawn Masala with Idiyappam",
-            "description": "A delicious Kerala-style prawn masala with idiyappam infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 129,
-            "rating": 4.2,
-            "image": "https://example.com/prawn_masala_with_idiyappam.jpg",
-            "video": "https://example.com/prawn_masala_with_idiyappam.mp4"
-        },
-        {
-            "id": 35,
-            "name": "Crab Roast with Idiyappam",
-            "description": "A delicious Kerala-style crab roast with idiyappam infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 261,
-            "rating": 4.3,
-            "image": "https://example.com/crab_roast_with_idiyappam.jpg",
-            "video": "https://example.com/crab_roast_with_idiyappam.mp4"
-        },
-        {
-            "id": 36,
-            "name": "Prawn Roast with Appam",
-            "description": "A delicious Kerala-style prawn roast with appam infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 179,
-            "rating": 4.4,
-            "image": "https://example.com/prawn_roast_with_appam.jpg",
-            "video": "https://example.com/prawn_roast_with_appam.mp4"
-        },
-        {
-            "id": 37,
-            "name": "Crab Curry with Appam",
-            "description": "A delicious Kerala-style crab curry with appam infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 232,
-            "rating": 3.9,
-            "image": "https://example.com/crab_curry_with_appam.jpg",
-            "video": "https://example.com/crab_curry_with_appam.mp4"
-        },
+        
         {
             "id": 38,
             "name": "Kerala Chicken Sandwich",
@@ -2815,39 +2440,10 @@
             ],
             "price": 252,
             "rating": 4.8,
-            "image": "https://example.com/kerala_chicken_sandwich.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.o6zvCA8M4I8k3fxcQ7gQfAEsCo&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_chicken_sandwich.mp4"
         },
-        {
-            "id": 39,
-            "name": "Kerala Mutton Sandwich",
-            "description": "A delicious Kerala-style kerala mutton sandwich infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 219,
-            "rating": 4.1,
-            "image": "https://example.com/kerala_mutton_sandwich.jpg",
-            "video": "https://example.com/kerala_mutton_sandwich.mp4"
-        },
-        {
-            "id": 40,
-            "name": "Kerala Beef Sandwich",
-            "description": "A delicious Kerala-style kerala beef sandwich infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 110,
-            "rating": 4.7,
-            "image": "https://example.com/kerala_beef_sandwich.jpg",
-            "video": "https://example.com/kerala_beef_sandwich.mp4"
-        },
+       
         {
             "id": 41,
             "name": "Egg Bread Toast Kerala Style",
@@ -2860,7 +2456,7 @@
             ],
             "price": 170,
             "rating": 3.5,
-            "image": "https://example.com/egg_bread_toast_kerala_style.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.gY6ISvi4DXRdzY9jZwye1gHaE8&pid=Api&P=0&h=180",
             "video": "https://example.com/egg_bread_toast_kerala_style.mp4"
         },
         {
@@ -2875,7 +2471,7 @@
             ],
             "price": 256,
             "rating": 3.9,
-            "image": "https://example.com/nadan_mutta_porichathu.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.9MXrqXx3z-HPlWgj8PGvDQHaFj&pid=Api&P=0&h=180",
             "video": "https://example.com/nadan_mutta_porichathu.mp4"
         },
         {
@@ -2890,69 +2486,10 @@
             ],
             "price": 118,
             "rating": 4.2,
-            "image": "https://example.com/kerala_chicken_cutlet.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.C83MP4khtIG_AhbPnOKaVwHaLD&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_chicken_cutlet.mp4"
         },
-        {
-            "id": 44,
-            "name": "Kerala Fish Cutlet",
-            "description": "A delicious Kerala-style kerala fish cutlet infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 165,
-            "rating": 4.8,
-            "image": "https://example.com/kerala_fish_cutlet.jpg",
-            "video": "https://example.com/kerala_fish_cutlet.mp4"
-        },
-        {
-            "id": 45,
-            "name": "Kerala Egg Cutlet",
-            "description": "A delicious Kerala-style kerala egg cutlet infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 209,
-            "rating": 4.2,
-            "image": "https://example.com/kerala_egg_cutlet.jpg",
-            "video": "https://example.com/kerala_egg_cutlet.mp4"
-        },
-        {
-            "id": 46,
-            "name": "Kerala Mutton Cutlet",
-            "description": "A delicious Kerala-style kerala mutton cutlet infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 132,
-            "rating": 3.8,
-            "image": "https://example.com/kerala_mutton_cutlet.jpg",
-            "video": "https://example.com/kerala_mutton_cutlet.mp4"
-        },
-        {
-            "id": 47,
-            "name": "Kerala Beef Cutlet",
-            "description": "A delicious Kerala-style kerala beef cutlet infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 158,
-            "rating": 4.7,
-            "image": "https://example.com/kerala_beef_cutlet.jpg",
-            "video": "https://example.com/kerala_beef_cutlet.mp4"
-        },
+      
         {
             "id": 48,
             "name": "Chicken Keema Puttu",
@@ -2965,39 +2502,10 @@
             ],
             "price": 264,
             "rating": 3.5,
-            "image": "https://example.com/chicken_keema_puttu.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.gqSuYomTi9JSE0nW0_RLLwHaJQ&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_keema_puttu.mp4"
         },
-        {
-            "id": 49,
-            "name": "Mutton Keema Puttu",
-            "description": "A delicious Kerala-style mutton keema puttu infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 268,
-            "rating": 4.7,
-            "image": "https://example.com/mutton_keema_puttu.jpg",
-            "video": "https://example.com/mutton_keema_puttu.mp4"
-        },
-        {
-            "id": 50,
-            "name": "Beef Keema Puttu",
-            "description": "A delicious Kerala-style beef keema puttu infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 237,
-            "rating": 4.2,
-            "image": "https://example.com/beef_keema_puttu.jpg",
-            "video": "https://example.com/beef_keema_puttu.mp4"
-        },
+        
         {
             "id": 51,
             "name": "Kerala Chicken Pancakes",
@@ -3010,54 +2518,10 @@
             ],
             "price": 113,
             "rating": 4.6,
-            "image": "https://example.com/kerala_chicken_pancakes.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.ylf0pRgppeq7b-NvjawMxQHaEK&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_chicken_pancakes.mp4"
         },
-        {
-            "id": 52,
-            "name": "Kerala Egg Pancakes",
-            "description": "A delicious Kerala-style kerala egg pancakes infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 239,
-            "rating": 4.9,
-            "image": "https://example.com/kerala_egg_pancakes.jpg",
-            "video": "https://example.com/kerala_egg_pancakes.mp4"
-        },
-        {
-            "id": 53,
-            "name": "Kerala Crab Pancakes",
-            "description": "A delicious Kerala-style kerala crab pancakes infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 114,
-            "rating": 3.6,
-            "image": "https://example.com/kerala_crab_pancakes.jpg",
-            "video": "https://example.com/kerala_crab_pancakes.mp4"
-        },
-        {
-            "id": 54,
-            "name": "Kerala Fish Pancakes",
-            "description": "A delicious Kerala-style kerala fish pancakes infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 107,
-            "rating": 4.1,
-            "image": "https://example.com/kerala_fish_pancakes.jpg",
-            "video": "https://example.com/kerala_fish_pancakes.mp4"
-        },
+        
         {
             "id": 55,
             "name": "Chicken & Egg Bhurji",
@@ -3070,444 +2534,10 @@
             ],
             "price": 167,
             "rating": 4.5,
-            "image": "https://example.com/chicken_&_egg_bhurji.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.Hi2mdo34frppascqnx43wQHaEK&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_&_egg_bhurji.mp4"
         },
-        {
-            "id": 56,
-            "name": "Kerala Egg Curry with Bread",
-            "description": "A delicious Kerala-style kerala egg curry with bread infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 144,
-            "rating": 3.9,
-            "image": "https://example.com/kerala_egg_curry_with_bread.jpg",
-            "video": "https://example.com/kerala_egg_curry_with_bread.mp4"
-        },
-        {
-            "id": 57,
-            "name": "Kerala Chicken Curry with Bread",
-            "description": "A delicious Kerala-style kerala chicken curry with bread infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 190,
-            "rating": 4.0,
-            "image": "https://example.com/kerala_chicken_curry_with_bread.jpg",
-            "video": "https://example.com/kerala_chicken_curry_with_bread.mp4"
-        },
-        {
-            "id": 58,
-            "name": "Kerala Mutton Curry with Bread",
-            "description": "A delicious Kerala-style kerala mutton curry with bread infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 231,
-            "rating": 4.7,
-            "image": "https://example.com/kerala_mutton_curry_with_bread.jpg",
-            "video": "https://example.com/kerala_mutton_curry_with_bread.mp4"
-        },
-        {
-            "id": 59,
-            "name": "Kerala Fish Curry with Bread",
-            "description": "A delicious Kerala-style kerala fish curry with bread infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 161,
-            "rating": 4.9,
-            "image": "https://example.com/kerala_fish_curry_with_bread.jpg",
-            "video": "https://example.com/kerala_fish_curry_with_bread.mp4"
-        },
-        {
-            "id": 60,
-            "name": "Kerala Prawn Curry with Bread",
-            "description": "A delicious Kerala-style kerala prawn curry with bread infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 219,
-            "rating": 5.0,
-            "image": "https://example.com/kerala_prawn_curry_with_bread.jpg",
-            "video": "https://example.com/kerala_prawn_curry_with_bread.mp4"
-        },
-        {
-            "id": 61,
-            "name": "Kerala Duck Roast with Appam",
-            "description": "A delicious Kerala-style kerala duck roast with appam infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 257,
-            "rating": 4.0,
-            "image": "https://example.com/kerala_duck_roast_with_appam.jpg",
-            "video": "https://example.com/kerala_duck_roast_with_appam.mp4"
-        },
-        {
-            "id": 62,
-            "name": "Kerala Duck Curry with Idiyappam",
-            "description": "A delicious Kerala-style kerala duck curry with idiyappam infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 282,
-            "rating": 4.8,
-            "image": "https://example.com/kerala_duck_curry_with_idiyappam.jpg",
-            "video": "https://example.com/kerala_duck_curry_with_idiyappam.mp4"
-        },
-        {
-            "id": 63,
-            "name": "Duck Roast with Malabar Parotta",
-            "description": "A delicious Kerala-style duck roast with malabar parotta infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 245,
-            "rating": 4.7,
-            "image": "https://example.com/duck_roast_with_malabar_parotta.jpg",
-            "video": "https://example.com/duck_roast_with_malabar_parotta.mp4"
-        },
-        {
-            "id": 64,
-            "name": "Kerala Duck Omelette",
-            "description": "A delicious Kerala-style kerala duck omelette infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 231,
-            "rating": 3.9,
-            "image": "https://example.com/kerala_duck_omelette.jpg",
-            "video": "https://example.com/kerala_duck_omelette.mp4"
-        },
-        {
-            "id": 65,
-            "name": "Kerala Chicken Omelette",
-            "description": "A delicious Kerala-style kerala chicken omelette infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 290,
-            "rating": 4.9,
-            "image": "https://example.com/kerala_chicken_omelette.jpg",
-            "video": "https://example.com/kerala_chicken_omelette.mp4"
-        },
-        {
-            "id": 66,
-            "name": "Kerala Crab Omelette",
-            "description": "A delicious Kerala-style kerala crab omelette infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 132,
-            "rating": 4.8,
-            "image": "https://example.com/kerala_crab_omelette.jpg",
-            "video": "https://example.com/kerala_crab_omelette.mp4"
-        },
-        {
-            "id": 67,
-            "name": "Kerala Fish Omelette",
-            "description": "A delicious Kerala-style kerala fish omelette infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 275,
-            "rating": 4.8,
-            "image": "https://example.com/kerala_fish_omelette.jpg",
-            "video": "https://example.com/kerala_fish_omelette.mp4"
-        },
-        {
-            "id": 68,
-            "name": "Kerala Prawn Omelette",
-            "description": "A delicious Kerala-style kerala prawn omelette infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 213,
-            "rating": 4.8,
-            "image": "https://example.com/kerala_prawn_omelette.jpg",
-            "video": "https://example.com/kerala_prawn_omelette.mp4"
-        },
-        {
-            "id": 69,
-            "name": "Kerala Mutton Omelette",
-            "description": "A delicious Kerala-style kerala mutton omelette infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 224,
-            "rating": 4.7,
-            "image": "https://example.com/kerala_mutton_omelette.jpg",
-            "video": "https://example.com/kerala_mutton_omelette.mp4"
-        },
-        {
-            "id": 70,
-            "name": "Kerala Egg Bajji",
-            "description": "A delicious Kerala-style kerala egg bajji infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 171,
-            "rating": 4.8,
-            "image": "https://example.com/kerala_egg_bajji.jpg",
-            "video": "https://example.com/kerala_egg_bajji.mp4"
-        },
-        {
-            "id": 71,
-            "name": "Kerala Chicken Bajji",
-            "description": "A delicious Kerala-style kerala chicken bajji infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 240,
-            "rating": 4.5,
-            "image": "https://example.com/kerala_chicken_bajji.jpg",
-            "video": "https://example.com/kerala_chicken_bajji.mp4"
-        },
-        {
-            "id": 72,
-            "name": "Kerala Fish Bajji",
-            "description": "A delicious Kerala-style kerala fish bajji infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 253,
-            "rating": 4.0,
-            "image": "https://example.com/kerala_fish_bajji.jpg",
-            "video": "https://example.com/kerala_fish_bajji.mp4"
-        },
-        {
-            "id": 73,
-            "name": "Kerala Prawn Bajji",
-            "description": "A delicious Kerala-style kerala prawn bajji infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 275,
-            "rating": 4.9,
-            "image": "https://example.com/kerala_prawn_bajji.jpg",
-            "video": "https://example.com/kerala_prawn_bajji.mp4"
-        },
-        {
-            "id": 74,
-            "name": "Kerala Mutton Bajji",
-            "description": "A delicious Kerala-style kerala mutton bajji infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 140,
-            "rating": 4.4,
-            "image": "https://example.com/kerala_mutton_bajji.jpg",
-            "video": "https://example.com/kerala_mutton_bajji.mp4"
-        },
-        {
-            "id": 75,
-            "name": "Kerala Egg Bhurji with Parotta",
-            "description": "A delicious Kerala-style kerala egg bhurji with parotta infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 262,
-            "rating": 3.6,
-            "image": "https://example.com/kerala_egg_bhurji_with_parotta.jpg",
-            "video": "https://example.com/kerala_egg_bhurji_with_parotta.mp4"
-        },
-        {
-            "id": 76,
-            "name": "Kerala Chicken Bhurji with Parotta",
-            "description": "A delicious Kerala-style kerala chicken bhurji with parotta infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 246,
-            "rating": 3.9,
-            "image": "https://example.com/kerala_chicken_bhurji_with_parotta.jpg",
-            "video": "https://example.com/kerala_chicken_bhurji_with_parotta.mp4"
-        },
-        {
-            "id": 77,
-            "name": "Kerala Mutton Bhurji with Parotta",
-            "description": "A delicious Kerala-style kerala mutton bhurji with parotta infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 142,
-            "rating": 4.9,
-            "image": "https://example.com/kerala_mutton_bhurji_with_parotta.jpg",
-            "video": "https://example.com/kerala_mutton_bhurji_with_parotta.mp4"
-        },
-        {
-            "id": 78,
-            "name": "Kerala Beef Bhurji with Parotta",
-            "description": "A delicious Kerala-style kerala beef bhurji with parotta infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 182,
-            "rating": 4.7,
-            "image": "https://example.com/kerala_beef_bhurji_with_parotta.jpg",
-            "video": "https://example.com/kerala_beef_bhurji_with_parotta.mp4"
-        },
-        {
-            "id": 79,
-            "name": "Kerala Fish Bhurji with Parotta",
-            "description": "A delicious Kerala-style kerala fish bhurji with parotta infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 176,
-            "rating": 4.2,
-            "image": "https://example.com/kerala_fish_bhurji_with_parotta.jpg",
-            "video": "https://example.com/kerala_fish_bhurji_with_parotta.mp4"
-        },
-        {
-            "id": 80,
-            "name": "Kerala Prawn Bhurji with Parotta",
-            "description": "A delicious Kerala-style kerala prawn bhurji with parotta infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 289,
-            "rating": 4.5,
-            "image": "https://example.com/kerala_prawn_bhurji_with_parotta.jpg",
-            "video": "https://example.com/kerala_prawn_bhurji_with_parotta.mp4"
-        },
-        {
-            "id": 81,
-            "name": "Nadan Chicken Curry",
-            "description": "A delicious Kerala-style nadan chicken curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 295,
-            "rating": 4.3,
-            "image": "https://example.com/nadan_chicken_curry.jpg",
-            "video": "https://example.com/nadan_chicken_curry.mp4"
-        },
-        {
-            "id": 82,
-            "name": "Kerala Mutton Curry",
-            "description": "A delicious Kerala-style kerala mutton curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 150,
-            "rating": 4.2,
-            "image": "https://example.com/kerala_mutton_curry.jpg",
-            "video": "https://example.com/kerala_mutton_curry.mp4"
-        },
-        {
-            "id": 83,
-            "name": "Kerala Beef Curry",
-            "description": "A delicious Kerala-style kerala beef curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 297,
-            "rating": 4.3,
-            "image": "https://example.com/kerala_beef_curry.jpg",
-            "video": "https://example.com/kerala_beef_curry.mp4"
-        },
-        {
-            "id": 84,
-            "name": "Kerala Fish Curry",
-            "description": "A delicious Kerala-style kerala fish curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 275,
-            "rating": 3.6,
-            "image": "https://example.com/kerala_fish_curry.jpg",
-            "video": "https://example.com/kerala_fish_curry.mp4"
-        },
+       
         {
             "id": 85,
             "name": "Kerala Duck Curry",
@@ -3520,7 +2550,7 @@
             ],
             "price": 141,
             "rating": 4.9,
-            "image": "https://example.com/kerala_duck_curry.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.Lzky8PXZ9Rr9nnStmEbDZQHaHD&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_duck_curry.mp4"
         },
         {
@@ -3535,7 +2565,7 @@
             ],
             "price": 141,
             "rating": 3.6,
-            "image": "https://example.com/kerala_crab_curry.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.lVdiMTIP6vN07PwRh5tDNAHaLF&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_crab_curry.mp4"
         },
         {
@@ -3550,24 +2580,10 @@
             ],
             "price": 178,
             "rating": 4.7,
-            "image": "https://example.com/kerala_prawn_curry.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.rSXEFWSGSo2t_5ut3CG5fAHaGN&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_prawn_curry.mp4"
         },
-        {
-            "id": 88,
-            "name": "Kerala Egg Curry",
-            "description": "A delicious Kerala-style kerala egg curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 271,
-            "rating": 3.9,
-            "image": "https://example.com/kerala_egg_curry.jpg",
-            "video": "https://example.com/kerala_egg_curry.mp4"
-        },
+        
         {
             "id": 89,
             "name": "Chicken Varutharacha Curry",
@@ -3580,54 +2596,10 @@
             ],
             "price": 253,
             "rating": 4.9,
-            "image": "https://example.com/chicken_varutharacha_curry.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.ZuA6xWpfBNQ-wWTvBM9IVAHaF7&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_varutharacha_curry.mp4"
         },
-        {
-            "id": 90,
-            "name": "Mutton Varutharacha Curry",
-            "description": "A delicious Kerala-style mutton varutharacha curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 288,
-            "rating": 4.7,
-            "image": "https://example.com/mutton_varutharacha_curry.jpg",
-            "video": "https://example.com/mutton_varutharacha_curry.mp4"
-        },
-        {
-            "id": 91,
-            "name": "Beef Varutharacha Curry",
-            "description": "A delicious Kerala-style beef varutharacha curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 106,
-            "rating": 3.7,
-            "image": "https://example.com/beef_varutharacha_curry.jpg",
-            "video": "https://example.com/beef_varutharacha_curry.mp4"
-        },
-        {
-            "id": 92,
-            "name": "Fish Varutharacha Curry",
-            "description": "A delicious Kerala-style fish varutharacha curry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 168,
-            "rating": 3.7,
-            "image": "https://example.com/fish_varutharacha_curry.jpg",
-            "video": "https://example.com/fish_varutharacha_curry.mp4"
-        },
+       
         {
             "id": 93,
             "name": "Chicken Roast",
@@ -3640,7 +2612,7 @@
             ],
             "price": 153,
             "rating": 4.7,
-            "image": "https://example.com/chicken_roast.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.WYhZzSAa5EtASM4NAS4SwgAAAA&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_roast.mp4"
         },
         {
@@ -3655,7 +2627,7 @@
             ],
             "price": 165,
             "rating": 4.9,
-            "image": "https://example.com/mutton_roast.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.27qZgF4btE-NyVFuiYIXDAHaEp&pid=Api&P=0&h=180",
             "video": "https://example.com/mutton_roast.mp4"
         },
         {
@@ -3670,7 +2642,7 @@
             ],
             "price": 191,
             "rating": 4.0,
-            "image": "https://example.com/beef_roast.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.-KzVvCiqxGXAAMlmXNRmtgHaLH&pid=Api&P=0&h=180",
             "video": "https://example.com/beef_roast.mp4"
         },
         {
@@ -3685,7 +2657,7 @@
             ],
             "price": 119,
             "rating": 4.1,
-            "image": "https://example.com/fish_roast.jpg",
+            "image": "https://tse4.mm.bing.net/th?id=OIP.fiEJOgAIZv1Dcn9FVr-9kQHaFW&pid=Api&P=0&h=180",
             "video": "https://example.com/fish_roast.mp4"
         },
         {
@@ -3700,7 +2672,7 @@
             ],
             "price": 129,
             "rating": 4.4,
-            "image": "https://example.com/prawn_roast.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.FZLIZOrqwfY16QrwSe_hmgHaD2&pid=Api&P=0&h=180",
             "video": "https://example.com/prawn_roast.mp4"
         },
         {
@@ -3715,99 +2687,10 @@
             ],
             "price": 211,
             "rating": 4.7,
-            "image": "https://example.com/crab_roast.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.G3vRt0feVdoN6Wd1zv3SCAHaD2&pid=Api&P=0&h=180",
             "video": "https://example.com/crab_roast.mp4"
         },
-        {
-            "id": 99,
-            "name": "Kerala Chicken Fry",
-            "description": "A delicious Kerala-style kerala chicken fry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 174,
-            "rating": 4.4,
-            "image": "https://example.com/kerala_chicken_fry.jpg",
-            "video": "https://example.com/kerala_chicken_fry.mp4"
-        },
-        {
-            "id": 100,
-            "name": "Kerala Mutton Fry",
-            "description": "A delicious Kerala-style kerala mutton fry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 218,
-            "rating": 4.7,
-            "image": "https://example.com/kerala_mutton_fry.jpg",
-            "video": "https://example.com/kerala_mutton_fry.mp4"
-        },
-        {
-            "id": 101,
-            "name": "Kerala Beef Fry",
-            "description": "A delicious Kerala-style kerala beef fry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 266,
-            "rating": 3.5,
-            "image": "https://example.com/kerala_beef_fry.jpg",
-            "video": "https://example.com/kerala_beef_fry.mp4"
-        },
-        {
-            "id": 102,
-            "name": "Kerala Fish Fry",
-            "description": "A delicious Kerala-style kerala fish fry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 208,
-            "rating": 4.3,
-            "image": "https://example.com/kerala_fish_fry.jpg",
-            "video": "https://example.com/kerala_fish_fry.mp4"
-        },
-        {
-            "id": 103,
-            "name": "Kerala Prawn Fry",
-            "description": "A delicious Kerala-style kerala prawn fry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 209,
-            "rating": 3.9,
-            "image": "https://example.com/kerala_prawn_fry.jpg",
-            "video": "https://example.com/kerala_prawn_fry.mp4"
-        },
-        {
-            "id": 104,
-            "name": "Kerala Crab Fry",
-            "description": "A delicious Kerala-style kerala crab fry infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 246,
-            "rating": 3.8,
-            "image": "https://example.com/kerala_crab_fry.jpg",
-            "video": "https://example.com/kerala_crab_fry.mp4"
-        },
+        
         {
             "id": 105,
             "name": "Chicken Thoran",
@@ -3820,7 +2703,7 @@
             ],
             "price": 296,
             "rating": 4.2,
-            "image": "https://example.com/chicken_thoran.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.3pO1YQD0YjK-Gm9fMZ-n_wHaGA&pid=Api&P=0&h=180",
             "video": "https://example.com/chicken_thoran.mp4"
         },
         {
@@ -3835,69 +2718,10 @@
             ],
             "price": 193,
             "rating": 4.9,
-            "image": "https://example.com/mutton_thoran.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.Du_QG739MZn2Rb5XamxftAHaE8&pid=Api&P=0&h=180",
             "video": "https://example.com/mutton_thoran.mp4"
         },
-        {
-            "id": 107,
-            "name": "Beef Thoran",
-            "description": "A delicious Kerala-style beef thoran infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 103,
-            "rating": 4.9,
-            "image": "https://example.com/beef_thoran.jpg",
-            "video": "https://example.com/beef_thoran.mp4"
-        },
-        {
-            "id": 108,
-            "name": "Fish Thoran",
-            "description": "A delicious Kerala-style fish thoran infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 277,
-            "rating": 3.6,
-            "image": "https://example.com/fish_thoran.jpg",
-            "video": "https://example.com/fish_thoran.mp4"
-        },
-        {
-            "id": 109,
-            "name": "Prawn Thoran",
-            "description": "A delicious Kerala-style prawn thoran infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 156,
-            "rating": 4.3,
-            "image": "https://example.com/prawn_thoran.jpg",
-            "video": "https://example.com/prawn_thoran.mp4"
-        },
-        {
-            "id": 110,
-            "name": "Crab Thoran",
-            "description": "A delicious Kerala-style crab thoran infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 216,
-            "rating": 3.8,
-            "image": "https://example.com/crab_thoran.jpg",
-            "video": "https://example.com/crab_thoran.mp4"
-        },
+       
         {
             "id": 111,
             "name": "Kerala Chicken Biriyani",
@@ -3910,7 +2734,7 @@
             ],
             "price": 267,
             "rating": 4.3,
-            "image": "https://example.com/kerala_chicken_biriyani.jpg",
+            "image": "https://tse2.mm.bing.net/th?id=OIP.p5-s6ON3y7eUrFf8NesBggHaFY&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_chicken_biriyani.mp4"
         },
         {
@@ -3925,69 +2749,10 @@
             ],
             "price": 121,
             "rating": 3.6,
-            "image": "https://example.com/kerala_mutton_biriyani.jpg",
+            "image": "https://tse1.mm.bing.net/th?id=OIP.IYfi8jC_MKqvg_9z6MGpHgHaE8&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_mutton_biriyani.mp4"
         },
-        {
-            "id": 113,
-            "name": "Kerala Beef Biriyani",
-            "description": "A delicious Kerala-style kerala beef biriyani infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 212,
-            "rating": 4.6,
-            "image": "https://example.com/kerala_beef_biriyani.jpg",
-            "video": "https://example.com/kerala_beef_biriyani.mp4"
-        },
-        {
-            "id": 114,
-            "name": "Kerala Fish Biriyani",
-            "description": "A delicious Kerala-style kerala fish biriyani infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 266,
-            "rating": 4.4,
-            "image": "https://example.com/kerala_fish_biriyani.jpg",
-            "video": "https://example.com/kerala_fish_biriyani.mp4"
-        },
-        {
-            "id": 115,
-            "name": "Kerala Prawn Biriyani",
-            "description": "A delicious Kerala-style kerala prawn biriyani infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 211,
-            "rating": 4.7,
-            "image": "https://example.com/kerala_prawn_biriyani.jpg",
-            "video": "https://example.com/kerala_prawn_biriyani.mp4"
-        },
-        {
-            "id": 116,
-            "name": "Kerala Crab Biriyani",
-            "description": "A delicious Kerala-style kerala crab biriyani infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 166,
-            "rating": 4.4,
-            "image": "https://example.com/kerala_crab_biriyani.jpg",
-            "video": "https://example.com/kerala_crab_biriyani.mp4"
-        },
+       
         {
             "id": 117,
             "name": "Kerala Duck Biriyani",
@@ -4000,28 +2765,14 @@
             ],
             "price": 156,
             "rating": 4.1,
-            "image": "https://example.com/kerala_duck_biriyani.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.loasXOMB4a3l5iBCmkTndwHaEK&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_duck_biriyani.mp4"
         },
-        {
-            "id": 118,
-            "name": "Kerala Egg Biriyani",
-            "description": "A delicious Kerala-style kerala egg biriyani infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 272,
-            "rating": 3.6,
-            "image": "https://example.com/kerala_egg_biriyani.jpg",
-            "video": "https://example.com/kerala_egg_biriyani.mp4"
-        },
+       
         {
             "id": 119,
-            "name": "Kerala Chicken Pulao",
-            "description": "A delicious Kerala-style kerala chicken pulao infused with traditional spices.",
+            "name": "Kerala  Pulao",
+            "description": "A delicious Kerala-style kerala  pulao infused with traditional spices.",
             "ingredients": [
                 "Spices",
                 "Coconut",
@@ -4030,114 +2781,10 @@
             ],
             "price": 246,
             "rating": 4.1,
-            "image": "https://example.com/kerala_chicken_pulao.jpg",
+            "image": "https://tse3.mm.bing.net/th?id=OIP.Mc-6-AoeO1-tVj5fwbn36AHaE8&pid=Api&P=0&h=180",
             "video": "https://example.com/kerala_chicken_pulao.mp4"
         },
-        {
-            "id": 120,
-            "name": "Kerala Mutton Pulao",
-            "description": "A delicious Kerala-style kerala mutton pulao infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 240,
-            "rating": 3.9,
-            "image": "https://example.com/kerala_mutton_pulao.jpg",
-            "video": "https://example.com/kerala_mutton_pulao.mp4"
-        },
-        {
-            "id": 121,
-            "name": "Kerala Beef Pulao",
-            "description": "A delicious Kerala-style kerala beef pulao infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 170,
-            "rating": 3.9,
-            "image": "https://example.com/kerala_beef_pulao.jpg",
-            "video": "https://example.com/kerala_beef_pulao.mp4"
-        },
-        {
-            "id": 122,
-            "name": "Kerala Fish Pulao",
-            "description": "A delicious Kerala-style kerala fish pulao infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 247,
-            "rating": 4.2,
-            "image": "https://example.com/kerala_fish_pulao.jpg",
-            "video": "https://example.com/kerala_fish_pulao.mp4"
-        },
-        {
-            "id": 123,
-            "name": "Kerala Prawn Pulao",
-            "description": "A delicious Kerala-style kerala prawn pulao infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 150,
-            "rating": 5.0,
-            "image": "https://example.com/kerala_prawn_pulao.jpg",
-            "video": "https://example.com/kerala_prawn_pulao.mp4"
-        },
-        {
-            "id": 124,
-            "name": "Kerala Crab Pulao",
-            "description": "A delicious Kerala-style kerala crab pulao infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 149,
-            "rating": 4.5,
-            "image": "https://example.com/kerala_crab_pulao.jpg",
-            "video": "https://example.com/kerala_crab_pulao.mp4"
-        },
-        {
-            "id": 125,
-            "name": "Kerala Duck Pulao",
-            "description": "A delicious Kerala-style kerala duck pulao infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 235,
-            "rating": 4.6,
-            "image": "https://example.com/kerala_duck_pulao.jpg",
-            "video": "https://example.com/kerala_duck_pulao.mp4"
-        },
-        {
-            "id": 126,
-            "name": "Kerala Egg Pulao",
-            "description": "A delicious Kerala-style kerala egg pulao infused with traditional spices.",
-            "ingredients": [
-                "Spices",
-                "Coconut",
-                "Rice",
-                "Meat/Fish/Egg"
-            ],
-            "price": 197,
-            "rating": 4.8,
-            "image": "https://example.com/kerala_egg_pulao.jpg",
-            "video": "https://example.com/kerala_egg_pulao.mp4"
-        },
+       
         {
             "id": 127,
             "name": "Malabar Chicken Biriyani",
@@ -4543,5 +3190,7 @@
             "image": "https://example.com/kerala_nadan_pepper_crab.jpg",
             "video": "https://example.com/kerala_nadan_pepper_crab.mp4"
         }
-    ]}
+        
+    ]
+    }
 ]
