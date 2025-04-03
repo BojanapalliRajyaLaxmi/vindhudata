@@ -1,6 +1,6 @@
 [
     {
-        "vegetarian":[
+      "vegetarian":[
             {
               "id": 1,
               "name": "Misal Pav",
@@ -1951,8 +1951,9 @@
               "image": "https://example.com/images/basundi.jpg",
               "video": "https://example.com/videos/basundi.mp4"
             }
-          ]
-    },{
+    ]
+    },
+    {
     "Non-vegetarian":[
         {
             "id": 1,
