@@ -1,4 +1,5 @@
-[{
+[
+    {
     "vegetarian": [
         {
             "id": 1,
@@ -4315,7 +4316,9 @@
             "image": "perugu_annam.jpg",
             "video": "perugu_annam.mp4"
         }
-    ]},{
+    ]
+    },
+    {
         "Non-Vegetarian":[
             {
                 "id": 1,
@@ -4328,7 +4331,7 @@
                 ],
                 "price": 100,
                 "rating": 3.5,
-                "image": "https://example.com/images/kheema_dosa.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.EnYBGbFiqtXUMc4P3Cr3mQHaJ3&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kheema_dosa.mp4"
             },
             {
@@ -4342,7 +4345,7 @@
                 ],
                 "price": 105,
                 "rating": 3.7,
-                "image": "https://example.com/images/natu_kodi_dosa.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.R4JyKJAnwkqC8KAbtxcHcwHaFc&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/natu_kodi_dosa.mp4"
             },
             {
@@ -4356,7 +4359,7 @@
                 ],
                 "price": 110,
                 "rating": 3.9,
-                "image": "https://example.com/images/egg_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.Y_vXEbPCwtl_Z8vrjBZGqAHaFg&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_dosa.mp4"
             },
             {
@@ -4370,7 +4373,7 @@
                 ],
                 "price": 115,
                 "rating": 4.1,
-                "image": "https://example.com/images/mutton_paya_with_idiyappam.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.qNpSvIja3GoFiQX0f1IxLwHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/mutton_paya_with_idiyappam.mp4"
             },
             {
@@ -4384,7 +4387,7 @@
                 ],
                 "price": 120,
                 "rating": 4.3,
-                "image": "https://example.com/images/kheema_upma.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.2qVJx5YXs0T1FUhrfd6JJQHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kheema_upma.mp4"
             },
             {
@@ -4398,7 +4401,7 @@
                 ],
                 "price": 125,
                 "rating": 3.5,
-                "image": "https://example.com/images/chicken_kheema_upma.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.mKd-ROFsDdXCUQ6ez-xeMQHaJ4&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_kheema_upma.mp4"
             },
             {
@@ -4412,7 +4415,7 @@
                 ],
                 "price": 130,
                 "rating": 3.7,
-                "image": "https://example.com/images/kodi_kura_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.M3mQjh1szLIxW00dt8QfaQHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kodi_kura_dosa.mp4"
             },
             {
@@ -4426,7 +4429,7 @@
                 ],
                 "price": 135,
                 "rating": 3.9,
-                "image": "https://example.com/images/mutton_liver_fry_with_rice_roti.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.wY41sIeb3Zu8Gqiq5sSpkwHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/mutton_liver_fry_with_rice_roti.mp4"
             },
             {
@@ -4440,7 +4443,7 @@
                 ],
                 "price": 140,
                 "rating": 4.1,
-                "image": "https://example.com/images/prawn_upma.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.e3-tPCz_Sw2HVA8I_g7CiQHaFj&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/prawn_upma.mp4"
             },
             {
@@ -4454,7 +4457,7 @@
                 ],
                 "price": 145,
                 "rating": 4.3,
-                "image": "https://example.com/images/chicken_pesarattu.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.KmFZMRAxQpmG4adHSRY9dAHaE9&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_pesarattu.mp4"
             },
             {
@@ -4468,7 +4471,7 @@
                 ],
                 "price": 150,
                 "rating": 3.5,
-                "image": "https://example.com/images/egg_appam.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.75xTJS1rXbhxTvlnoCPHpgHaEc&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_appam.mp4"
             },
             {
@@ -4482,7 +4485,7 @@
                 ],
                 "price": 155,
                 "rating": 3.7,
-                "image": "https://example.com/images/chicken_idli.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.pGC6zqoVx3dlT8YS5mrtFgHaF7&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_idli.mp4"
             },
             {
@@ -4496,7 +4499,7 @@
                 ],
                 "price": 160,
                 "rating": 3.9,
-                "image": "https://example.com/images/egg_paratha.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.CirlWVk597qaOF2VBW8yGgHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_paratha.mp4"
             },
             {
@@ -4510,7 +4513,7 @@
                 ],
                 "price": 165,
                 "rating": 4.1,
-                "image": "https://example.com/images/paya_soup_with_idli.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.Lhgyy5RDDh25dZKkZSMVYgAAAA&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/paya_soup_with_idli.mp4"
             },
             {
@@ -4524,7 +4527,7 @@
                 ],
                 "price": 170,
                 "rating": 4.3,
-                "image": "https://example.com/images/andhra_chicken_omelette.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.cEfu8VPb2QIHqdHXq1h78AHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/andhra_chicken_omelette.mp4"
             },
             {
@@ -4538,7 +4541,7 @@
                 ],
                 "price": 175,
                 "rating": 3.5,
-                "image": "https://example.com/images/mutton_keema_idiyappam.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.aGDm4Grk5ai_yung9j822QHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/mutton_keema_idiyappam.mp4"
             },
             {
@@ -4552,7 +4555,7 @@
                 ],
                 "price": 180,
                 "rating": 3.7,
-                "image": "https://example.com/images/kodi_pulao.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.qnaieySbRaWJ9Mr3ZDfxKwHaFl&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kodi_pulao.mp4"
             },
             {
@@ -4566,7 +4569,7 @@
                 ],
                 "price": 185,
                 "rating": 3.9,
-                "image": "https://example.com/images/mutton_kheema_roti.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.RrSYlI5gSCYLPxvVeHM0UQHaEk&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/mutton_kheema_roti.mp4"
             },
             {
@@ -4580,7 +4583,7 @@
                 ],
                 "price": 190,
                 "rating": 4.1,
-                "image": "https://example.com/images/egg_curry_with_chapati.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.-EkC2lMcMMOgWoGzMlsJQQHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_curry_with_chapati.mp4"
             },
             {
@@ -4594,7 +4597,7 @@
                 ],
                 "price": 195,
                 "rating": 4.3,
-                "image": "https://example.com/images/egg_sandwich_(andhra_style).jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.1FErjD7vmRMJQpf_3FKpWgHaIy&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_sandwich_(andhra_style).mp4"
             },
             {
@@ -4608,7 +4611,7 @@
                 ],
                 "price": 200,
                 "rating": 3.5,
-                "image": "https://example.com/images/chicken_masala_puri.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.YNj1PGd1dIasR6NHamkjzAHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_masala_puri.mp4"
             },
             {
@@ -4622,7 +4625,7 @@
                 ],
                 "price": 205,
                 "rating": 3.7,
-                "image": "https://example.com/images/mutton_masala_dosa.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.rcKAxeCPSixlWaWRFu4sEAHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/mutton_masala_dosa.mp4"
             },
             {
@@ -4636,7 +4639,7 @@
                 ],
                 "price": 210,
                 "rating": 3.9,
-                "image": "https://example.com/images/spicy_egg_roll.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.pTKvkb_B0-y0SsZRcYrcaAHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/spicy_egg_roll.mp4"
             },
             {
@@ -4650,7 +4653,7 @@
                 ],
                 "price": 215,
                 "rating": 4.1,
-                "image": "https://example.com/images/chicken_paratha.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.iPT81MbU50APFIW8WACdawHaEs&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_paratha.mp4"
             },
             {
@@ -4664,7 +4667,7 @@
                 ],
                 "price": 220,
                 "rating": 4.3,
-                "image": "https://example.com/images/andhra_crab_masala_with_roti.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.EL8YEwpPimXsPySjI7qHcQHaEF&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/andhra_crab_masala_with_roti.mp4"
             },
             {
@@ -4678,7 +4681,7 @@
                 ],
                 "price": 225,
                 "rating": 3.5,
-                "image": "https://example.com/images/kodi_poha.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.jRQihqZFTYdKZ73lh2XxKAHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kodi_poha.mp4"
             },
             {
@@ -4692,7 +4695,7 @@
                 ],
                 "price": 230,
                 "rating": 3.7,
-                "image": "https://example.com/images/prawn_dosa.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.GtlrBP0Gho5hCDvFSOx39gHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/prawn_dosa.mp4"
             },
             {
@@ -4706,7 +4709,7 @@
                 ],
                 "price": 235,
                 "rating": 3.9,
-                "image": "https://example.com/images/egg_vada.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.rZV5ZedQP5V4FFWi3TIJgwHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_vada.mp4"
             },
             {
@@ -4720,7 +4723,7 @@
                 ],
                 "price": 240,
                 "rating": 4.1,
-                "image": "https://example.com/images/kheema_stuffed_idli.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.Zz8pGxHMAyYM_9quMa-qjAHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/kheema_stuffed_idli.mp4"
             },
             {
@@ -4748,7 +4751,7 @@
                 ],
                 "price": 250,
                 "rating": 3.5,
-                "image": "https://example.com/images/natu_kodi_kichidi.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.nx0VET0FTwn2zUQ3EA-05QHaFj&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/natu_kodi_kichidi.mp4"
             },
             {
@@ -4776,7 +4779,7 @@
                 ],
                 "price": 260,
                 "rating": 3.9,
-                "image": "https://example.com/images/chicken_kichidi.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.zMCEQ-GtQrq0p4qoKxiWAQHaLH&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_kichidi.mp4"
             },
             {
@@ -4790,7 +4793,7 @@
                 ],
                 "price": 265,
                 "rating": 4.1,
-                "image": "https://example.com/images/andhra_egg_bhurji.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.SQVQp0sShbCUs1ekhmmU_QHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/andhra_egg_bhurji.mp4"
             },
             {
@@ -4804,7 +4807,7 @@
                 ],
                 "price": 270,
                 "rating": 4.3,
-                "image": "https://example.com/images/paya_idli.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.IjZaSlo6U_-5wnpuT1cxUQHaE8&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/paya_idli.mp4"
             },
             {
@@ -4818,7 +4821,7 @@
                 ],
                 "price": 275,
                 "rating": 3.5,
-                "image": "https://example.com/images/chicken_malpua.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.nKkCJ4GP4j_EhVmmafYFuwHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_malpua.mp4"
             },
             {
@@ -4832,7 +4835,7 @@
                 ],
                 "price": 280,
                 "rating": 3.7,
-                "image": "https://example.com/images/egg_halwa_with_roti.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.E0GEPAZt4-KRWxq46piNTQHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_halwa_with_roti.mp4"
             },
             {
@@ -4846,7 +4849,7 @@
                 ],
                 "price": 285,
                 "rating": 3.9,
-                "image": "https://example.com/images/boti_kheema_chapati.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.4NYouCr5FLqjBjvNaJVhOQHaF7&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/boti_kheema_chapati.mp4"
             },
             {
@@ -4860,7 +4863,7 @@
                 ],
                 "price": 290,
                 "rating": 4.1,
-                "image": "https://example.com/images/crab_curry_with_rice_roti.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP.oZNsqrFqbGVVnwBYElAVnQHaE7&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/crab_curry_with_rice_roti.mp4"
             },
             {
@@ -4874,7 +4877,7 @@
                 ],
                 "price": 295,
                 "rating": 4.3,
-                "image": "https://example.com/images/spicy_egg_pancakes.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.YYL6ulT0TrOKXucTKsg2dQHaDz&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/spicy_egg_pancakes.mp4"
             },
             {
@@ -4888,7 +4891,7 @@
                 ],
                 "price": 300,
                 "rating": 3.5,
-                "image": "https://example.com/images/fish_cutlet_with_chapati.jpg",
+                "image": "https://tse4.mm.bing.net/th?id=OIP._OZEppmFufQ-me1qcWBdxwHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/fish_cutlet_with_chapati.mp4"
             },
             {
@@ -4902,7 +4905,7 @@
                 ],
                 "price": 305,
                 "rating": 3.7,
-                "image": "https://example.com/images/mutton_bone_marrow_soup_with_idiyappam.jpg",
+                "image": "https://tse3.mm.bing.net/th?id=OIP.tsoti4C3jUl-Q1PJ2fwwsAHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/mutton_bone_marrow_soup_with_idiyappam.mp4"
             },
             {
@@ -4916,7 +4919,7 @@
                 ],
                 "price": 310,
                 "rating": 3.9,
-                "image": "https://example.com/images/chicken_ragi_sangati.jpg",
+                "image": "https://tse1.mm.bing.net/th?id=OIP.BNkLfpdMINF2MUjwYiXL7QHaJQ&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/chicken_ragi_sangati.mp4"
             },
             {
@@ -4930,7 +4933,7 @@
                 ],
                 "price": 315,
                 "rating": 4.1,
-                "image": "https://example.com/images/prawn_chapati_roll.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.xMy5FXN_BC735k3Egwsj9gHaEK&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/prawn_chapati_roll.mp4"
             },
             {
@@ -4944,7 +4947,7 @@
                 ],
                 "price": 320,
                 "rating": 4.3,
-                "image": "https://example.com/images/egg_pesarattu.jpg",
+                "image": "https://tse2.mm.bing.net/th?id=OIP.Z3H_jNDURcbxcDyzmjSImgHaHa&pid=Api&P=0&h=180",
                 "video": "https://example.com/videos/egg_pesarattu.mp4"
             },
             {
