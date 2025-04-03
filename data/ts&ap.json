@@ -4319,7 +4319,7 @@
     ]
     },
     {
-        "Non-Vegetarian":[
+    "Non-Vegetarian":[
             {
                 "id": 1,
                 "name": "Kheema Dosa",
@@ -7120,6 +7120,6 @@
                 "image": "https://example.com/images/spiced_egg_mousse.jpg",
                 "video": "https://example.com/videos/spiced_egg_mousse.mp4"
             }
-        ]
+    ]
     }
 ]
