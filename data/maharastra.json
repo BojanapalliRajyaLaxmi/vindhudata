@@ -1,6 +1,6 @@
 [
     {
-        "vegetarain:[
+        "vegetarian":[
             {
               "id": 1,
               "name": "Misal Pav",
@@ -755,7 +755,7 @@
     }
     },
     {
-        "non-vegetarian":[
+        "Non-vegetarian":[
             
         ]    
     }
